@@ -1,0 +1,41 @@
+Introdução à programação para Internet
+- O que é Internet -
+
+- Objetivos da aula -
+	1. História
+	2. Termos-chave
+	3. A internet atualmente
+
+- Requisitos básicos -
+	* Familiaridade com computadores
+	* Familiaridade com internet
+	* Familiaridade com smartphone
+
+
+Parte 1: História
+- História -
+	* Ano: 1969. Origem: EUA. Nome inicial: Arpanet. Local: Departamento de Defesa. Período: Guerra Fria. Interligar laboratórios. O surgimento do primeiro e-mail.
+	* 1982. Universidades. Holanda, Dinamarca e Suécia. Intuito do uso: Pesquisas
+	* 1987. Liberado o uso comercial nos EUA. 
+	* 1992. CERN cria a World Wide Web (Tradução: Rede Mundial de Computadores). Dados acessíveis a qualquer pessoa com acesso à Internet.
+
+- No Brasil -
+	* Ano: 1988. FAPESP, UFRJ, LNCC fizeram um acordo para trazer a internet ao Brasil
+	* Ano: 1994. EMBRATEL financiou o uso da internet por fins comerciais
+	* Nesse período ainda era Conexão Discada (Internet providenciada pela rede pública de telefonia)
+	* Ano: 2000. Tipo de internet: Banda Larga
+
+
+- Exercício final -
+
+1) Qual foi o primeiro domínio criado?
+R1: Symbolics.com, porém não existe mais. De vês disso, a posse do domínio está em outros donos.
+
+2) E o primeiro blog?
+R2: Um blog brasileiro chamado "Open Diary".
+
+3) Qual foi a primeira compra feita pela Internet?
+R3: A primeira compra feita pela internet foi de um CD do Sting, realizada pelo um amigo de Dan Konh
+
+4) Qual o site mais antigo em atividade?
+R4: O site mais antigo em atividade é o nordu.net
