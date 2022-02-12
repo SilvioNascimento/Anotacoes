@@ -1,0 +1,75 @@
+- Estrutura Repetição -
+	* Controle de fluxo
+	* Laços
+	* Malhas de repetição
+	* Loop
+	* Repetição
+	* A estrutura de repetição só será finalizada se:
+		- Número de repetições estiver pré-fixada
+		- Condição a ser satisfeita
+
+	* É mais benéfico utilizar as estruturas de repetição, pois têm as vantagens de:
+		- Redução  de linhas
+		- Compreensão facilitada
+		- Redução de erro
+
+- Tem mais de tipo de estrutura de repetição? -
+	* Enquanto... faça
+	* Repita... até
+	* Para... de... até... faça
+Ex1 (Enquanto):
+	grama = falso
+	Enquanto(grama == falso) faça
+		<instrução de cortar grama>
+		<atualiza grama>
+	fim enquanto
+
+Teste lógico
+	* Início
+Número de repetição
+	*indefinidas
+
+
+Ex2 (Repita):
+	multiplo = 3
+	result = 2
+	Repita
+
+		result = result * multiplo
+		multiplo = multiplo - 1
+	
+	até(multiplo == 0)
+
+Teste lógico
+	* Final
+Número de repetições
+	* indefinidas
+
+
+Ex3 (Para... de... até):
+	somatorio = 0
+	para início = 1 até 10
+
+		somatorio = somatorio + inicio
+		Escreva somatorio
+
+	fim para
+
+Teste
+	* Início
+Número de repetições
+	* Definidas
+
+
+- Consigo mesclar as estruturas? Uma dentro da outra? -
+	* Sim
+Ex:
+	Enquanto (<condição>)
+
+		Se (<condição2>)
+			<instruções>
+		fimse
+
+		...
+		
+	fim enquanto

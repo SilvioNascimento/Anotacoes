@@ -1,0 +1,71 @@
+- Primeiros comandos com o Git -
+	* Iniciar o Git
+		- git init: Iniciar o repositório do git
+	* Iniciar o versionamento
+		- git add: Mover arquivos e começar ao versionamento e seus primeiros comandos
+	* Criar um commit
+		- git commit: Criar um novo commit
+
+
+- Criando um repositório -
+	* Crie uma pasta chamada workspace no Disco Local C
+	* Clique com botão direito do mouse na parte branca no Disco Local C
+	* Clique em Git Bash Here
+	* Digite cd workspace no Git Bash e aperte Enter
+	* Para criar uma pasta chamada 'livro-receita', por exemplo, digite mkdir livro-receitas e aperte Enter
+		- Digite o comando ls e aperte Enter para ver se a pasta livro-receitas foi criado. Se sim, então fez corretamente
+	* Digite cd livro-receitas/ e aperte Enter
+	* Digite git init para iniciar um repositório do git
+		- Pode perceber que, ao lado do caminho mostrado, mostra '(master)', informando que foi criado uma pasta oculta do git
+	* digite ls -a para ver a pasta oculta
+		- Se está vendo a pasta .git/ após executar o comando anterior, quer dizer que funcionou
+	* digite cd .git/ para acessá-lo
+	* Digite ls para ver pastas existentes da pasta atualmente acessada
+	* Depois disso, digite cd ..
+	** Se for a sua primeira vez de criar seu primeiro arquivo, então o Git vai pedir algumas configurações
+		- Para configurar o Git com seu email, digite:
+			git config --global user.email "digite seu email"
+
+		- Para configurar o Git com seu nome de usuário, digite:
+			git config --global user.name SeuNome
+
+
+
+- Adicionando um arquivo -
+	* Três tipos de arquivos:
+		- Markdown (O que vamos utilizar no Git)
+		- Navegador
+		- HTML
+
+* Abre a pasta workspace
+* Abre a pasta livro-receitas
+* Crie um documento chamado strogonoff.md
+	- Se tiver um editor chamado Typora ou VS Code instalado no seu PC, e se tentar abrar o documento, então abrirá em um dos editores informados anteriormente.
+
+* Quando o editor abrir, escreva o seguinte:
+
+# **Strogonoff de Frango**
+	
+## **Ingredientes**
+
+	- Procure uma receita e transcreve os ingredientes da receita no seu editor, colocando um traço no início dos ingredientes
+
+## **Modo de preparo**
+
+	1. Procure uma receita e transcreve o Modo de preparo da receita no seu editor, colocando uma numeração no início do passo a passo do modo de preparo
+
+
+obs: Quanto menor a quantidade de # maior as letras que estão acompanhando ele ficarão se estiver utilizando o editor Typora
+
+
+* Após realizar todo o passo a passo informado anteriormente, clique no ícone do Git Bash
+* Digite:
+  git add *
+  E aperte Enter
+
+* Digite:
+  git commit -m "Commit inicial"
+  E depois aperte Enter
+	- Se apareceu a mensagem "create mode 100644 strogonoff.md", então fez o código corretamente, gerando, asssim, o primeiro, ou até mais um, commit.
+
+

@@ -1,0 +1,29 @@
+- Tópicos -
+	* SHA1
+	* Objetos fundamentais
+	* Git é um Sistema distribuído
+	* Oferece mais Segurança
+
+- SHA1 -
+	* A sigla SHA significa Secure Hash Algorithm (Algoritmo de Hash Seguro), é um conjunto de funções hash criptográficas projetadas pela NSA (Agência de Segurança Nacional dos EUA)
+	* A encriptação gera conjunto de caracteres identificador de 40 dígitos.
+	* É uma forma curta de representar um arquivo.
+	Exemplo no Git Bash:
+		echo "ola mundo" | openssl sha1
+saída:		> (stdin)= d9802fa01c4c1dfc4ddaf61f766d8d56ad8a8699
+
+	* OBS: Quanto mais você roda o código nos arquivos distintos mais chaves diferentes o Git Bash gera, fazendo que os arquivos sejam criptografados com chaves diferentes aumentando a segurança dos mesmos. Além de que, quanto criptografa um arquivo uma vez, fazer alterações do mesmo arquivo gera uma criptografia nova. E caso desfaz as alterações do mesmo arquivo, gera a mesma criptografia que foi gerada pela primeira vez
+	Ex:
+n:	openssl sha1 mano.txt
+chave: 	861f3935f91df24f5bebeab857ffb068c80ca9fd
+
+alt:	openssl sha1 mano.txt
+chave: 3496ad3ee836fc305f8774ede7b4c610febe8484
+
+n:	openssl sha1 mano.txt
+chave: 	861f3935f91df24f5bebeab857ffb068c80ca9fd
+
+
+Para abrir o Git Bash na área de trabalho, faça o seguinte:
+	1. Clica com botão direito no mouse na área de trabalho
+	2. selecionar a opção "Git Bash Here"

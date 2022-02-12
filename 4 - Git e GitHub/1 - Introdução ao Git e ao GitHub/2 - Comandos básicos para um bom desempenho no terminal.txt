@@ -1,0 +1,27 @@
+- GUI(Interface gráfica) x CLI(Interfaace de linha de comando) -
+	* O Git (sistema de controle de versão) é uma CLI, que só atende comandos por linha de comando 
+
+- O que vamos aprender? -
+	* Mudar de pastas
+	* Listar as pastas
+	* Criar pastas/arquivos
+	* Deletar pastas/arquivos
+
+- Navegação -
+	* Windows (comandos):
+		- cd: Navegação entre pastas
+		- dir: Mostrar todos os arquivos do diretório selecionado
+		- mkdir: Criar uma pasta
+		- del/rmdir: Deletar arquivos e pastas, respectivamente
+		- cls: limpar a tela do prompt de comando
+		- echo: mostra uma mensagem escrita pelo usuário
+		- echo frase > arquivo.extensão: transfere uma frase escrita pelo usuário para um arquivo. Se o arquivo informado não existir, então o programa cria e depois transfere a frase
+	* Linux (comandos):
+		- cd
+		- ls
+		- mkdir
+		- rm -rf
+		- clear (Ou usar o comando Ctrl + L)
+
+Obs: Caso queira mexer no prompt de comando da Linux, instala perkles
+ 

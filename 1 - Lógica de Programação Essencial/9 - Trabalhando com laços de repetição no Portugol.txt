@@ -1,0 +1,28 @@
+Laços de repetição - Portugol
+
+Objetivos
+	1. Aprender a utilizar os laços de repetição no Portugol
+
+Definição
+	* Dentro da lógica de programação é uma estrutura que permite executar mais de uma vez o mesmo comando ou conjunto de comandos, de acordo com uma condição ou com um contador.
+
+ex:
+
+programa
+{
+
+	funcao inicio()
+	{
+		inteiro contador,limite,resultado
+		contador = 0
+		limite = 10
+		faca
+		{
+			resultado = 9 * contador
+			escreva("9 X " + contador + "=" + resultado + "\n")
+			contador ++
+		}enquanto (contador <= limite)
+	}
+}
+
+Obs: var ++ é o mesmo que dizer var = var + 1

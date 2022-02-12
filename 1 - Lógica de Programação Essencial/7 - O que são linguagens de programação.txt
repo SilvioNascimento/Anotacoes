@@ -1,0 +1,43 @@
+Linguagens de programação e o Portugol
+
+Objetivos
+	1. Aprender o que são linguagens de programação
+	2. Introdução ao Portugol (Utilizando pseudocódigos na prática)
+--------------------------------
+
+O que são linguagens de programação?
+	* "Linguagem de Programação é uma linguagem escrita e formal que especifica um conjunto de instruções e regras usadas para gerar programas (software). Um software pode ser desenvolvido para rodar em um computador, dispositivo móvel ou em qualquer equipamento que permita sua execução"
+	* "O que é óbvio para você, certamente não é óbvio para uma máquina. E se você quer que a máquina faça algo para você, você precisa 'falar com ela'."
+	A função das linguagens de programação é servir de um meio de comunicação entre computadores e humanos. 
+--------------------------------
+
+Linguagens de Baixo e de Alto nível
+
+* Alto nível
+	Essas são aquelas cuja sintaxe se aproxima mais da linguagem e se distanciam mais da linguagem de máquina (Ex: C, C++, Python, PHP, Java).
+
+* Baixo nível
+	É aquela que se aproxima mais da linguagem de máquina. Essas são as que você precisa ter o conhecimentodireto da arquitetura do computador para fazer alguma coisa.
+--------------------------------
+
+Compiladas ou interpretadas
+
+* Compiladas
+	É uma linguagem de programação em que o código fonte, é executado diretamente pelo sistema operacional ou pelo processador, após ser tradizido por meio de um processo chamado compilação (Delphi, C#, Visual Basic, C++).
+
+* Interpretadas
+	É uma linguagem de programação em que o código fonte é executado por um programa de computador chamado interpretador, que em seguida é executado pelo sistema operacional ou processador (PHP, Python, Javascript).
+--------------------------------
+
+O que é o Portugol?
+	* "Portugol é uma pseudolinguagem que permite ao leitor desenvolver algoritmos estruturados em português de forma simples e intuitiva, independentemente de linguagem de programação"
+	* "É uma pseudolinguagem que permite ao programador pensar no problema me si e não no equipamento que irá executar o algoritmo."
+--------------------------------
+
+Declarar variável em Portugol
+	* real var: define a(s) variável(is) que recebe números reais.
+	* caracter var: define a(s) variável(is) que recebe somente uma letra de A a Z.
+	* cadeia var: define a(s) variável(is) que recebe conjuntos e/ou letras únicas.
+	* escreva("strings"): Mostra as strings definidos, entre áspas duplas, dentro dos parênteses.
+	* leia(var): Permite que o usuário informe um valor para uma variável definido.
+	* +: Concatena uma string com uma variável, vice e versa e/ou uma variável com a outra.

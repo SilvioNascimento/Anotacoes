@@ -1,0 +1,50 @@
+Objetivos:
+	* Conhecer as expressões aritméticas, literais e as expressões relacionais
+	* Entender e aplicar as tomadas de decisão em um algoritmo
+----------------------------------
+
+Expressões aritméticas
+	* "São expressões que utilizam operadores aritméricos e funções aritméticas envolvendo constantes e variáveis"
+
+ex:
+50 + 50 (constantes)
+total (variável) + 50
+----------------------------------
+
+Operadores aritméticos (Na informática)
+
+|Soma	      |	   +	|
+|Subtração    |	   -	|
+|Multiplicação|	   *	|
+|Divisão      |	   /	|
+|Potenciação  |    ^	|
+|Porcentagem  |	   %	|
+----------------------------------
+
+Expressões Literais
+	* "São expressões com constantes e/ou variáveis que tem como resultado valores literais. Iremos utilizar as expressões literais na atribuição de valor para uma variável ou constante"
+
+Ex:
+nome = 'José da Silva'
+nome <- 'José da Silva' (pseudocódigo; Está atribuindo o valor 'José da Silva' na variável nome pela seta)
+media = (nota1+ nota2+nota3+nota4)/4
+
+
+Exemplos de expressões Aritméticas e Literais
+
+Variáveis	|     Comando de Atribuição/operação	|	Procedimento
+	A	|	 	 A = 2			| Armazenar o valor 2 na variável A
+	B	|		 B = A + 3		| Somar o valor de A(2) com 3 e armazenar em B(5)
+	C	|		 C = A + B		| Somar o valor de A(2) e o valor B(5) e armazenar em C(7)
+----------------------------------
+
+Expressões Relacionais
+	* "São expressões compostas por outras expressões ou variáveis numéricas com operadores relacionais. As expressões relacionais retornam valores lógicos (verdadeiro/falso)"
+
+Ex:
+	* 1 > 2 = False
+	* 2 > 1 = True
+----------------------------------
+
+Tomadas de decisão
+	* "Quando escrevemos programas, geralmente ocorre a necessidade de decidir o que fazer dependendo de alguma condição encontrada durante a execução"

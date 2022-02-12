@@ -1,0 +1,112 @@
+O que é um paradigma?
+Definição: "Forma de resolução de problemas com diretrizes e limitações específicas de cada paradigma utilizando linguagem de programação."
+
+- Paradigmas -
+	* Orientação à objeto
+		- Abstração que trata o programa com base em classe e objetos
+	* Procedural
+		- Chamadas sucessivas e procedimentos separados
+	* Funcional
+		- Instruções são baseadas em funções
+	* Estruturado
+		- Estrutura de blocos aninhados
+	* Computação distribuida
+		- Funções executadas de forma independente
+	* Lógico
+
+- Paradigma Estruturado (Ênfase em sequência) -
+	* Conceitos:
+		- Sequência
+		- Decisão (Teste lógico)
+		- Iteração (Funções, laços, condições)'
+
+	* Dominou o mercado até POO
+
+	* Utilização:
+		- Problemas simples e diretos
+		- Aprender programação
+	* POO ainda não compreendida por muitos
+	* Uma das linguagens denominada paradigma estruturado:
+		- C
+
+
+- Orientação a objeto -
+	* Paradigma de programação baseado na utilização de objetos e suas interações
+	* Análogo ao mundo real
+	* O que é um objeto?
+		- "Um objeto é descrito por características específicas, comportamentos e estado"
+	Exemplo (Caneta):
+		- O que tenho:
+			° Modelo
+			° Cor
+			° Carga
+			° Corpo
+			° Tampa
+			° Ponta
+
+		- Sou capaz de fazer:
+			° Escrever
+			° Desenhar
+			° Rabiscar
+			° Pintar
+			° Destampar
+
+		- Como faço:
+			° Tampada
+			° Destampada
+			° Em uso
+
+Orientação a objetos:
+	* Modelo (Classificação [Não foi explicado, eu acho])
+	* Atributos (O que tenho)
+	* Métodos (Sou capaz de fazer)
+	* Estados (Como faço)
+
+- Diferenças -
+	* POO
+		- Alocação em memória
+		- Operações associadas
+	
+	*Estruturada
+		- Alocação em memória (variável)
+		- Operações associadas (variável)
+
+
+Ex. de código em Orientação a objeto
+	classe caneta():
+		cor: inteiro
+		carga: caracter
+		tampada: lógico
+
+		metodo escrever():
+			se estado tampada
+				escreva ("Destampar")
+			senão
+				escreva("algo")
+			fimse
+
+		metodo tampar():
+			tampada = verdadeiro
+	fimclasse
+
+
+Pilares de orientação a objeto:
+	* Herança
+	* Encapsulamento
+	* Polimorfismo
+	* Abstração
+
+	* Classes
+	ex:
+		Classe mãe (comportamento e Estado gerais)
+		- Classe filho; Classe filha(Comportamento e estado Específicos)
+	* Suas características:
+		- Atributos
+		- Métodos
+
+
+- Comparativo -
+	* POO (Programa Orientado à Objetos)
+		- Reuso de código
+	* PE (Paradigma Estruturado)
+		- Problemas específicos e diretos

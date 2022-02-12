@@ -1,0 +1,18 @@
+Como construir um algoritmo?
+	* Compreensão do problema (Pontos importantes)
+	* Definir dados de entrada (Dados fornecidos e Cenário)
+	* Definir processamento (Cálculos e Restrições)
+	* Definir dados de saída (Após processamento)
+	* Utilizar um método de construção (Construção do algoritmo)
+	* Teste e diagnóstico (Refinamento do algoritmo)
+
+Construção de algoritmos (Sem conceitos novos)
+	* Narrativa (Utilização da linguagem natural [português]; Diversas interpretações possíveis)
+	* Fluxograma (Utilização de símbolos pré-definidos; Conhecimento prévio da estrutura e símbolos)
+	* Pseudocódigo (Portugol. Passos a serem seguidos)
+
+Exemplo:
+	* Multiplicação de dois números:
+	  Passo 1 - Recebe os valores (n1 e n2)
+	  Passo 2 - Multiplica (m = n1 * n2)
+	  Passo 3 - Imprime resultado (escreve(m))

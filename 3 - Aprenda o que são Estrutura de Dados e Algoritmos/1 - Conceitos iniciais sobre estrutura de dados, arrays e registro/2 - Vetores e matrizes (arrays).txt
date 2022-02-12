@@ -1,0 +1,31 @@
+- Sobre Vetor -
+	* Vetores e Matrizes ou Arrays são estruturas de dados simples que podem auxiliar quando há muitas variáveis do mesmo tipo em um algoritmo.
+Obs: Podemos utilizar o pseudo-linguagem Portugol para fazer alguns exemplos
+
+	* Vetor ou array uni-dimensional é uma variável que armazena várias variáveis do mesmo tipo.
+	* O vetor é uma estrutura de dados indexada, que pode armazenar uma determinada quantidade de valores do mesmo tipo
+
+Portugol
+	* estrutura de repetição PARA
+		- Vai continuar a repetir os mesmos processos até que a condição dela seja cumprida
+		ex:
+		inteiro numeros[] = {23, 45, 63, 26}
+		para (inteiro posicao = 0; posicao <= 3; posicao++){
+			escreva(numeros[posicao] + "\n")
+		}
+
+exe:		23
+		45
+		63
+		26
+
+
+- Sobre Matriz -
+	* Matriz ou array multi-dimensional é um vetor de vetores
+	* Uma matriz é um vetor que possui duas ou mais dimensões
+	ex matriz 3L x 4C:
+
+	  C1  C2  C3  C4
+L1	|  2  -1   3   1  |
+L2	|  0  -2   5   4  |
+L3	| -3   1   0   6  |

@@ -1,0 +1,52 @@
+Computação
+	* Pai da computação: Alan Turing
+	* Durante a guerra, Alan criou o primeiro computador para decodificar as mensagens codificadas dos alemães
+	* Com isso, deu o início da revolução
+	* O computador foi criado através de algoritmos voltadas na base e noção matemática
+-------------------------------
+
+Berço da computação
+	* Perfil de Alan Turing:
+		- 1912(ano de nascimento) à 1954(ano de falecimento. Causa: suicídio)
+		- Estudante de Cambrigde
+		- Matemático
+	* Tentou caracterizar operações computáveis
+	* Máquina baseada em sistema formal
+	* Assim formalizou o conceito do algoritmo
+-------------------------------
+
+Máquina de Turing
+	* Símbolos processados por computo(máquina computável)
+		- Símbolos(comandos) transforma em ações
+		- Operações (simbolizadas) modifica o estado do sistema.
+-------------------------------
+
+Decifrando códigos de Guerra
+	* 1940
+		- Escola de cifras e códigos - Inglaterra
+		- 9 matemáticos (inserção de matemáticos)
+
+	* Notoriedades pós-guerra
+	
+Estados Unidos - EUA
+	* Projeto Delilab (Codificador de voz)
+	* Responsáveis: Ala Turing, Von Newmann e Claude Shanon
+	* Claude Shannon percebeu a vasta aplicabilidade da álgebra booleana, justamente, também, em circuitos eletrônicos.
+		- Computadores digitais:
+			° Conceitos
+			° Lógicas
+		- Base dos computadores atuais
+	* Em 1948, Claude relatou no jornal o conteúdo do projeto em duas áreas da computação: A compressão de dados e criptografia.
+
+	* Von Newmann: matemático
+	* Ficou responsável por Construção de hardware, programação, Arquitetura, Programação, Teoria da computação e Computação científica.
+	* Arquitetura de Von Newmann:
+		- Espaço de memória:
+			° Dados
+			° Programa
+	* Em Inglaterra, foi contratado pela NPL(National Phyfical Laboratory) para construir Automatic Computing Engine (ACE)
+
+	* Alan Turing(1950)
+		- Ele fez um questionamento:
+		- "Será que os computadores podem pensar?"
+	* Codificação(instruções) realiza operações de computador através da matemática, presentes no hardware.

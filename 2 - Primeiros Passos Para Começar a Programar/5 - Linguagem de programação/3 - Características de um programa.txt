@@ -1,0 +1,50 @@
+Basta sair programando?
+Não
+
+Existem boas práticas em programação?
+Sim, existem importantes caracteristicas
+
+
+Características
+- Desenvolvimento de programas (Diretrizes) -
+	* Legibilidade
+	* Redigibilidade
+	* Confiabilidade
+	* Custo
+
+- Legibilidade -
+	* Facilidade de leitura
+	* Compreensão
+	* Ortogonalidade (coerência nas instruções)
+	* Definição adequada das estruturas
+
+- Redigibilidade (Facilidade de escrita de código) -
+	* Pode conflitar com a legibilidade
+	* Ortogonalidade (coerência nas instruções)
+	* Simplicidade da escrita
+	* Suporte à abstração
+	* Reuso do código
+	* Expressividade (Operador ++; uso do FOR)
+
+
+- Confiabilidade (Faz o que foi programado para fazer) -
+	* Possui:
+		- Verificação de tipos
+		- Tratar excessões
+		- Uso de ponteiros
+		- Compatibilidade entre compiladores
+
+- Custo (Análise de impacto) -
+	* Possui:
+		- Treinamento
+		- Codificação
+		- Compilação
+		- Execução
+		- Infra-estrutura
+
+- Outras características -
+	* Atualizações
+	* Uso para IA
+	* Disponibilidade de ferramentas
+	* Comunidade ativa
+	* Adoção pelo mercado

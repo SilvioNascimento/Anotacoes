@@ -1,0 +1,33 @@
+Objetivos:
+	1. Aprender a utilizar os desvios condicionais (estruturas de decisão) no Portugol
+	2. Boas práticas de programação - Comentários
+--------------------------------------
+
+Desvio condicional - se
+	* "É utilizada a palavra reservada se, a condição a ser testada entre parênteses e as instruções que devem ser executadas entre chaves caso o desvi seja verdadeiro"
+ex:
+	se(media>=7){
+		escreva("Parabéns!! Você foi aprovado!!")
+	}
+
+--------------------------------------
+
+se-senao
+	Agora vamos imaginar que se a condição for falsa um outro conjunto de comandos deve ser executado.
+	Quando iremos encontrar esta situação?
+ex:
+	se(media>=7){
+		escreva("Parabéns!! Você foi aprovado!!")
+	}
+	senao{
+		escreva("Infelizmente você foi reprovado")
+	}
+
+--------------------------------------
+
+Comentário (//)
+	* o comando // (pronuncia: barra barra) é utilizado para fazer comentário, e também o programa não executa-o, como não se fosse uma parte do programa todo
+--------------------------------------
+
+Desvio condicional - caso
+	* Este comando é similar aos comandos se e senao, e reduz a complexidade na escolha de diversas opções. Apesar de suas similaridades com o se, ele possui algumas diferenças. Neste comando não é possível o uso de operadores lógicos, ele apenas trabalha com valores definidos.

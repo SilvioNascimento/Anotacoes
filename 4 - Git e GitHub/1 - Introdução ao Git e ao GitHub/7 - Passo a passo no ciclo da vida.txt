@@ -1,0 +1,12 @@
+comandos
+	* git status: vai ajudar a monitorar o status do nosso arquivos, se eles estão com status untracked, Stage, entre outros
+		- Se aparecer a mensagem "nothing to commit, working tree clean", então quer dizer que o nosso repositório está limpo.
+	* mv arquivo.ext ./pasta/: Este comando move um arquivo informado até uma pasta que também foi informada
+		- Exemplo:
+			mv strogonoff.md ./receitas/
+	* git add arquivo.ext pasta/: Adiciona o arquivo informado para o status Stage e move-o para dentro da pasta informada
+		- Exemplo:
+			git add strogonoff.md receitas/
+	* git commit -m "msg": Cria um commit dos arquivos com o status Stage, com uma mensagem informada
+	* git add *: Adiciona todos os conteúdos presentes na pasta atual para o status Stage
+	

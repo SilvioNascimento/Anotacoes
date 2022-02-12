@@ -1,0 +1,50 @@
+Primeiros computadores
+	* Konrad Zuse
+		- Criou o primeiro computador chamado Z1, em 1938
+	* Z1
+		- Possui 1000 válvulas
+		- Unidades Básicas:
+			° Memória
+			° Controladora
+			° Dispositivo para cálculo aritmético
+	* Não foi desenvolvido
+	* Outras versões, Z2 e Z3, foram desenvolvidas
+	* Z2
+		- Era baseado em relés e válvulas
+	* Z3
+		- Baseado de relés e micros de ferrite
+		- Realizava 3 a 4 operações por segundo
+		- 5 para multiplicação
+	* Z3 foi destruído, junto com a casa do Konrad, em 1944 devido ao bombardeio da guerra.
+	* Tinha outra versão do computador, o Z4, ainda não construída. Mas escondeu o projeto devido a guerra. Após o término da guerra, construiu o Z4.
+
+	* IBM construiu, junto com a empresa Harvand, um computador chamado Mark 1 ou Automatic Sequence Controller Calculator
+		- Modificação de instruções dinâmica
+		- Unidade de decisão - algoritmo
+		- Memórias separadas para instruções e dados
+-------------------------------
+
+Segunda Guerra Mundial
+	* Preocupações em relação aos cálculos de para acertar o alvo do tanque, por exemplo
+	* Surgimento do primeiro computador ENIAC (Eletronic Numeral Integrator and Computer)
+	* Formato em U
+	* Memórias gigantescas - 80x8.5 pés
+	* Registradores - 2 pés
+	* 18 mil válvulas
+	* Mulheres eram responsáveis por programar o ENIAC de receber e enviar dados através da movimentação dos cabos.
+	* Era chamado de computador por ser programável
+
+
+	*EDVAC(Eletronic Discrete Variable Automatic Computer)
+: uma versão melhorada do ENIAC
+	* Criador: Von Newmann
+	* Ano de utilização: 1954
+	* EDVAC foi colocado em execução após o encerramento do ENIAC
+	* Motivos: Vantagens de armazenar dados
+	
+
+	* Colossus
+	* Criado em 1943
+	* Criador: Alan Turing
+	* Processava 25 mil caractere/seg
+	* Programável através de inserção de cabos

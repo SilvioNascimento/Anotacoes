@@ -1,0 +1,19 @@
+- Entrada/saída -
+	* Dados (Quais os tipos e como inserir os dados?) -> processamento -> Resultado (Como exibir meu resultado?)
+
+- Instruções de entrada -
+	* Definição: Consiste na inserção e recebimento de dados do mundo real por meio de ação de alguma interface, seja teclado, mouse, arquivos, metadados, acesso ao banco de dados, entre outros.
+
+- Instruções de saída -
+	* Definição: Consiste na impressão dos dados do mundo abstrato, digital por meio de ação de alguma interface.
+	* Os formatos podem variar desde simples arquivos binários até complexas querys de bancos de dados.
+	* Existem dois tipos de saídas dentro de um programa (algoritmo)
+		- Saída programada, que pode ser condicional (Aguarda o dispositivo) ou incondicional (Envia os dados independentemente do estado do dispositivo)
+		- Saída por interrupção, na qual é definida pelos periféricos(hardware)
+
+
+- Casos -
+	* Bem sucedida
+	* Erro de sintaxe ou outro
+	* Erros de programação
+	* Problemas com a interface 

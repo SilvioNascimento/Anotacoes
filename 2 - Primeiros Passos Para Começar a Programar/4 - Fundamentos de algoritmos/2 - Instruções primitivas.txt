@@ -1,0 +1,23 @@
+- Instruções ptimitivas -
+	* Cálculos matemáticos (Operadores: Binário e Unário)
+		- Variáveis
+		- Constantes
+
+- O que são instruções? -
+	* Definição: Instruções são linguagem de palavras-chave (vocabulário) de uma determinada programação que tem por finalidade comandar um computador que irá tratar os dados
+	* Notação (Linguagens de programação; ex: janela[portugues], window[inglês], ventana[espanhol] ) -> Operações
+
+- Outros conceitos - 
+	* Entrada de dados => Processamento de dados => Saída de dados
+
+Ex (Média escolar):
+	Inicio programa:
+Variável ->	nota1 = 5
+		nota2 = 8
+		Resultado = 0
+		Resultado = (nota1 + nota2)/2	<- Constante
+		Escreva resultado
+	Fim programa
+
+	Saída:
+		6.5

@@ -1,0 +1,20 @@
+- Análise léxica (léxica: conjunto de palavras existente em um determinado idioma, que as pessoas têm à disposição para expressar-se, oralmente ou por escrito em seu contexto. ) -
+	* Possui três etapas:
+		- Particionar
+			° O código é decomposto e particionado em elementos denominados tokens
+		- Classificar
+			° Elementos: Indentificadores, palavras reservadas, números, strings
+		- Eliminar
+			° Elimina os caracteres de espaços em branco, comentários, ...
+
+- Análise sintática (Corretude do programa) -
+	* Sintaxe (Forma):
+		- "Componentes do sistema linguístico que interligam os constituintes da sentença, atribuindo-lhe uma estrutura"
+	* Padrão-gramática
+		- Depende da linguagem de programação utilizada
+
+- Análise semântica (Lógica do programa) -
+	* Semântica (significado):
+		- "É o estudo do significado. Incide sobre a relação entrw significantes, como: palavras, frases, sinais e símbolos"
+	* Erro de semântica:
+		- Não faz o que é esperado. Pode dar erro de sintaxe no código; ou o código funciona, porém não da forma que queria

@@ -1,0 +1,38 @@
+Algoritmos
+	* Energia
+	* Trabalhador
+	* Eficiência
+	* Rapidez
+	* Problema: Não opera sozinho
+	* Precisa de instruções detalhadas para realizar o trabalho.
+
+-Processamento de dados-
+	* Computador recebe, manipula e armazena dados.
+	* Este tipo de trabalho é realizado através de programas criados pelos programadores
+	* Programas possuem instruções
+	* Algoritmos: Processo de resolução de problemas 'step by setup' utilizando instruções
+		- O que precisa ser feito? (instruções)
+		- Qual a ordem de execução? (instruções)
+	* Algoritmos devem ter o entendimento por humano e máquina
+
+-Desenvolvimento do Programa-
+	* Análise
+		- Estudo e definição dos dados de entrada e saída
+	* Algoritmo
+		- Descreve o problema por meio de ferramentas narrativas, fluxograma, ou pseudocódigo
+	* Codificação
+		- O algoritmo é codificado de acordo com a linguagem de programação escolhida
+--------------------------
+	Instruções detalhadas -> Algoritmo -> Programa
+--------------------------
+
+-Algoritmos-
+	* Sequência de passos com objetivo definido
+	* Execução de tarefas específicas
+	* Conjunto de operações que resultam em uma sucessão finita de ações
+	* Aplicação de algoritmos no dia-a-dia
+		- Prepara um algoritmo
+		- Trocar uma lâmpada
+		- Fazer uma receita de bolo
+		- Trajeto ao trabalho
+	* Executados passo a passo para concluir a tarefa

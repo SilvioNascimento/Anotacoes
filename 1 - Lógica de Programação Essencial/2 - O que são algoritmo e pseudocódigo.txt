@@ -1,0 +1,60 @@
+Objetivos
+	1. Entender o que é um algoritmo
+	2. Entender o que é um pseudocódigo
+----------------------------------
+
+Algoritmo
+	* "É uma sequência de passos que resolve um problema"
+	*Exemplo:
+	Início-dia
+		Acordei
+		Levantei da cama
+		Fui a padaria
+		Comprei pão
+		Voltei para casa
+		Tomei café
+		Escovei os dentes
+		Fui estudar
+		Paro de estudar
+		Fui para cozinha
+		Pego o prato
+		coloco comida neste prato
+		vou para mesa
+		Eu almoço
+		Acabo de almoçar
+		
+		
+	Fim-dia
+----------------------------------
+
+Pseudocódigo
+	* "Pseudocódico é uma forma genérica de escrever um algoritmo, utilizando uma linguagem simples (nativa, ou seja, em português a quem o escreve, de forma a ser entendida por qualquer pessoa)"
+----------------------------------
+
+*Exercício
+	* Realizar um pseudocódigo do jogo 'Pinguins numa fria'
+link: https://rachacuca.com.br/jogos/pinguins-numa-fria/
+
+
+Resolução:
+*Colocar pinguim bebê azul no bloco de gelo
+ Colocar pinguim adulto azul no bloco de gelo
+*Atravessar
+*Atravessar pinguim adulto azul na margem oposta
+*Atravessar
+*Colocar pinguim bebê verde no bloco de gelo
+*Atravessar
+*Atravessar pinguim bebê azul na margem oposta
+*Atravessar
+*Colocar pinguim adulto verde no bloco de gelo
+*Atravessar
+*Atravessar pinguim adulto verde na margem oposta
+*Atravessar
+*Colocar pinguim bebê vermelho no bloco de gelo
+*Atravessar
+*Atravessar pinguim bebê verde na margem oposta
+*Atravessar
+*Colocar pinguim adulto vermelho no bloco de gelo
+*Atravessar
+*Atravessar pinguim adulto vermelho na margem oposta
+*Atravessar pinguim bebê vermelho na margem oposta

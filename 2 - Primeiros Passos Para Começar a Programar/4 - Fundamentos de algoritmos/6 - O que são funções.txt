@@ -1,0 +1,31 @@
+- Funções -
+	* Similar ao conceito de função matemática
+	* Definição 1: As funções, ou sub-rotinas são blocos de instruções que realizam tarefas específicas (Decomposição do algoritmo)
+	* Modularização do problema
+	* Definição 2: "São blocos de instruções (código), identificados por nomes e parâmetros"
+		- Definição
+		- Nome
+		- Invocação
+		- Variável local
+			° São destruídas ao encerrar a função
+	
+	* Demostração:
+	Dados -> Função (Alterar estado do programa) -> Resultado
+	
+- Função? Não é mais fácil fazer tudo junto? -
+	* Modularização do programa
+	* Código mais claro e conciso
+	* Reutilização de instruções
+
+
+Ex:
+	funcao mediaescolar(nota1,nota2):
+		resultado = 0
+		resultado = (nota1 + nota2)/2
+		
+		retorne resultado
+	fim funcao
+------------------------------------------------------------------
+	aluno1 = mediaescolar(nota11, nota21)
+	aluno2 = mediaescolar(nota12, nota22)
+	aluno3 = mediaescolar(nota13, nota23)

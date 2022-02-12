@@ -1,0 +1,48 @@
+Técnicas:
+	* Planta baixa: Verificar todos os requisitos necessários para dar o início do projeto
+	* Projetos: Verifica a planta baixa para construir o projeto de construção, informando os materiais necessários para a construção do mesmo
+	* Planejamento: obtem informações do projeto para planejar como e quando realizar a construção de algo.
+
+Seguem a lógica e determinam as instruções
+
+
+Modelos de desenvolvimento e resolução
+-Técnica Linear-
+	* Modelo tradicional
+	* Não tem vínculo
+		- Estrutura hierárquica
+		- Programação de computadores
+	* Linear: ideia vinda de matemática
+	* Execução sequenciada de eventos
+	* Ordenação de elementos por uma única propriedade.
+		- problemas de única dimensão
+		- Recursos limitados
+	* Ex: Acordar -> Fazer café -> Tomar café
+
+
+-Técnica Estruturada-
+	* Estrutura: Organização, disposição e ordem dos elementos essenciais que compõem um corpo (concreto ou abstrato)
+	* Objetivo: Facilitar a escrita (programas), o entendimento, a validação e a manutenção de um ou vários problemas
+	* Processamento de dados
+	* ex:
+	Acordar;	
+	se Dia está frio:
+		Fazer café
+	se não:
+		Fazer suco
+	Tomar café da manhã
+
+
+-Técnica Modular-
+	* Decompor problemas; Transformando um problema em módulos independentes
+	* Módulos controladas por um conjunto de regras
+	* Modelo padrão:
+	Dados de entrada(inserção de valores) -> Processo de transformação(instruções dadas) -> Dados de saída.
+	* Metas:
+		- Simplificação(segmentar problemas)
+		- Decompor o problema
+		- Verificação do módulo(verificando se está funcionando corretamente)
+	* ex:
+	1. Módulo preparar acordar
+	2. Módulo preparar bebida
+	3. Módulo tomar café da manhã

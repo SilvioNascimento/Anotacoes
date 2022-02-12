@@ -1,0 +1,11 @@
+- Como o computador entende o programa? -
+	* Tradução
+		- Um programa é um amontado de palavras senão for possível que o computador entenda (Processo de tradução)
+		- Linguagem de alto nível (programa fonte) => Executa analise do programa (compilador) => Assembly (programa objeto) => Linguagem de máquina
+
+- Recapitulando -
+	* Tradução (Execução mais rápida):
+		- Geração do programa objeto
+		- Execução do programa objeto
+	* Interpretação (Programas menores; Maior flexibilidade):
+		- Programa fonte executado diretamente

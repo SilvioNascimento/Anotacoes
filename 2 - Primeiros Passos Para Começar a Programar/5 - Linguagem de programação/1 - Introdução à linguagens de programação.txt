@@ -1,0 +1,72 @@
+Introdução
+
+- Assembly -
+	* Ano de origem: 1949
+	* Primeira linguagem
+	* Linguagem de:
+		- Montagem
+		- Máquina
+
+- Década 50 -
+	* Surgimento
+		- Fortran
+		- COBOL
+		- LISP
+		- ...
+
+- Década 60 e 70 (paradigmas atuais) -
+	* Surgimento
+		- C
+		- Prolog
+		- ML
+		- ...
+
+- Década 90 -
+	* Linguagens de alto nível
+		- Java
+		- Python
+		- Ruby
+		- C#
+		- JavaScript
+
+- Ano 2000 -
+	* Linguagens multiparadigmas (linguagens especializadas)
+		- Go
+		- Rust
+		- Dart
+		- TypeScript
+
+- Problemas computacionais -
+	* Objeto de discussão que possui instruções passo a passo que são mais facilmento resolvíveis em ambiente computacional.
+	* Tipos de problemas:
+		- Problemas de decisão
+			° Caracter lógico - Sim ou Não
+			° Ideia
+				1. Pertencimento
+			Ex:
+				"Dado um número N inteiro positivo, determine se N é primo"
+
+		- Problemas de busca
+			° Relacionamento binário
+			° Objetivo
+				1. Semelhante ao nome
+				2. x está em A?
+			° Recorrente em teoria de grafos
+			Ex: clique
+
+		- Problemas de otimização
+			° Objetivo
+				1. Maximizar, ou
+				2. Minimizar uma função
+			° Aplicações
+				1. Ferrovia
+				2. Engenharia Civil
+				3. Biologia
+				4. Contabilidade
+
+- O que é uma linguagem de programação? -
+	* Método padronizado composto por um conjunto de regras sintáticas e semânticas de implementação de um código fonte
+	* Conjunto de palavras com regras
+	* Código fonte pode ser:
+		- Tradução
+		- Interpretação

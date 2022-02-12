@@ -1,0 +1,17 @@
+Era dos computadores pessoais: 1975
+	* Só foi possível ter um computador pessoal graças a evolução do hardware, reduzindo o tamanho dos componentes.
+	
+Criação da linguagem Basic para minicomputadores:
+	* Responsáveis: Willian (Bill) Gates e Paull Allen
+	* Depois de algum tempo, os dois criaram a empresa Microsoft
+
+Computadores
+	* Appel II (closesource). Criado em 1977 => Bem recebido ao público
+	* IBM-PC (opensource). Criado em 1981
+	* Apple III => não foi tão aprovado pela população
+	* Lisa => Não foi tão alvejado pela população devido ao alto custo
+
+Passar dos anos...
+	* Altos investimentos na evolução de Hardware e Software 
+	* Evoluindo a tecnologia dos computadores pessoais
+	* Tudo isso em escala expotencial

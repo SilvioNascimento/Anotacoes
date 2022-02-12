@@ -1,0 +1,19 @@
+	* Crie seu repositório no GitHub com mesmo nome que utilizou ao criar o repositório no Git, no caso livro-receitas. Se tiver um documento chamado README.md devido a sua criação manualmente, então esqueça de marcar a opção 'Adicionar um arquivo README'
+	* Após gerar um novo repositório, copie o link do terceiro campo e abra o Git Bash
+	* digite cd /c/workspace/livro-receitas/ e aperte Enter
+	* Digite o seguinte código e depois aperte Enter:
+		git remote add origin coleolink
+	  Esse código será responsável por apontar o repositório do PC para que, depois de digitar um código mais pra frente, possa transferir o repositório do PC para GitHub
+
+	* Digite o código a seguir e, em seguida, aperte Enter:
+		git remote -v
+	  Ele lista as listas de repositórios remotos já cadastrados
+
+	* digite git status e aperte Enter para ver se está tudo OK. Se aparecer somente duas linhas de informação, significa que está tudo bem.
+	* Digite o código a seguir e, em seguida, aperte Enter:
+		git push origin master
+	  Esse código é responsável por enviar o repositório para o GitHub
+		- Caso apareça uma aba pedindo para digitar o seu nome de usuário, digita-o e, em seguida, aperte Enter. Caso não apareceu, é porque você está começando a usar a plataforma
+	* Vá até na aba do github, atualiza a página e pronto, está tudo ok.
+
+	

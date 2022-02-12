@@ -1,0 +1,21 @@
+Objetivo
+	* Esta aula foca em apresentar o conceito de lógica aplicada à programação, como um processo de pensamento atrelado ao conceito de algoritmos e resolução de problemas
+
+Lógica
+	* Definição de problema: "Problema é uma questão que foge a uma determinada regra, ou melhor é um desvio de percurso, o qual impede de atingir um objetivo com eficiência e eficácia."
+	* Definição de lógica:
+"Parte da filosofia que trata das formas do pensamento em geral (dedução, indução, hipótese, inferência etc.) e das operações intelectuais que visam à determinação do que é verdadeiro ou não."
+	* Lógica pode ser interpretada como: 'Ordenação que segue convenções', 'Organização coesa', 'Forma como desencadeiam acontecimentos', 'Forma de raciocínio'.
+	* Lógica de programação: "Organização e planejamento das instruções, assertivas em um algoritmo, a fim de viabilizar a implantação de um programa."
+
+Percebe que essa definição se aplica no seu cotidiano?
+	* A resposta é sim!
+	* É utilizado uma sequência de instruções lógicas de algo a fim de chegar ao objetivo final
+	* Exemplo: Preparar um café.
+
+Falta de costume
+	* Seres humanos podem prever comportamentos, computadores não.
+	* Então deve estabelecer e executar instruções lógicas para o computador prever tais comportamentos
+
+Por que entender a lógica em programação?
+	* "Todos neste país deveriam aprender a programar um computador, pois isto ensina a pensar." - Steve Jobs

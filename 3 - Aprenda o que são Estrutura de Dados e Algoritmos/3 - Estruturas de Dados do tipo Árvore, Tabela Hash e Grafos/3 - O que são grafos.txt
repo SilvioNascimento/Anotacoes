@@ -1,0 +1,7 @@
+- O que é um grafo? -
+	* Grafos são estruturas que permitem programar a relação entre objetos
+	* Os objetos são vértices ou "nós" do grafo
+	* Os relacionamentos são arestas
+
+ex:
+visualizem as imagens "3.1 - O que são grafos.png", "3.2 - O que são grafos.png" e "3.3 - O que são grafos.png"

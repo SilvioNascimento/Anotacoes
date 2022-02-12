@@ -1,0 +1,39 @@
+Caso queira fazer algumas alterações, salvá-los e empurrá-lo ao GitHub, então faz o seguinte:
+	* Vá até o arquivo que está dentro do seu repositório na sua máquina e faz algumas alterações da sua maneira
+	* Salva as alterações e abra o Git Bash
+	* digite 'cd /c/workspace/livro-receitas' (sem áspas) e aperte Enter
+	* Digite 'git status' (sem áspas) no git bash e aperte Enter. Se aparecer uma mensagem que ainda não foi commitado, então presta atenção na etapa a seguir.
+	* digite 'git add *'(sem áspas)
+	* Digite 'git status'(sem áspas) para verificar se está pronto para ser commitado. Se sim, então está no caminho certo
+	* Digite o código a seguir e depois aperte Enter:
+		git commit -m "Digite a mensagem em relação ao repositório que quiser"
+	* Digite 
+		git push origin master
+	  E depois aperte Enter.
+		- Se pedir para se identificar com seu nickname, faça-o e depois aperte Enter.
+			° Se deu erro, então digite o seguinte comando para puxar o que está no github para máquina e depois, aperte Enter:
+				git pull origin master
+			° Se aparecer na mensagem, que está na penúltima linha, desta forma:
+				CONFLICT (content): Merge conflicts in nomeArquivo.ext
+			  Significa que o seu arquivo tem algum problema. Verifica-o, modifica-o, se necessário, e salve-o.
+			  Faz tudo que foi mostrado anteriormente para mandar o seu documento para o GitHub.
+
+
+Para clonar um repositório no GitHub para sua máquina local:
+	* Escolha um repositório de outra pessoa
+	* Clique em Código
+	* Copie o link
+	* Abra o Git Bash
+	* Digite 
+		cd /c/workspace
+	  e aperte Enter
+	* digite
+		git clone coleOLink
+	  e aperte Enter para começar a clonagem do repositório
+	* Digite cd nomeRepositório para entrar no repositório clonado. Exemplo: cd Par-ou-ímpar-THE-GAME
+	* Digite
+		ls -a
+	  para verificar todas as pastas (ocultas e cultas)
+	* Digite
+		git remote -v
+	  para ver todos os repositórios remotos salvos

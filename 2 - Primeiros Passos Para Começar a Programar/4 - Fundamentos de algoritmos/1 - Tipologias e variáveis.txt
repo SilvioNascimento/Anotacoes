@@ -1,0 +1,54 @@
+Variáveis
+
+- Qual a função do computador? -
+	* Informação
+		- Dados 
+			° Tratados e processados => Numéricos, Caracteres e Lógicos
+		- Instruções
+
+- Tipo - Numéricco -
+	* Numéricos podem ser:
+		- Inteiros
+			° 1, 0, -3, 43, -14, ...
+		- Reais
+			° 5.76, 34.0, -0.345, -567, ...
+
+- Tipo - Caractere -
+	* Caractere
+		- "Programação", @#$%¨&*, "PROGRAMAÇÃO", "Fone: (25)99865-5741", "Rua almeida, nº45"
+
+- Tipo - Lógicos -
+	* Lógico possuem dois tipos de valores, que são:
+		- Verdadeiro (representado pelo número 1)
+		- Falso (representado pelo número 0)
+	* Booleano
+		- .Verdadeiro ; .V ou .S
+		- .Falso ; .F ou .N
+
+
+Variável
+- O que é uma variável? - 
+	* É uma fração da memória para armazenar qualquer valor determinado a ela
+	* Ela pode assumir qualquer um dos valores de um determinado conjunto de valores
+	* Elas são previamente identificadas
+	* Regras: Nome da variável
+		- Atribuição de um ou mais caracteres
+		- Primeira letra, não número
+		- Sem espaços em branco
+		- Vedado (proibido)
+			° Utilização de palavras reservadas
+	* Caracteres e números
+	*Papéis de uma variável:
+		- Ação
+			° Modificação de estado
+		- Controle
+			° Vigiada, controle
+
+- Variável constante -
+	* O que não muda
+	* Inalterado
+	* invariável
+	* Ex:
+		- pi = 3.14
+		- phi = 1.618
+		- resulta = recebido * 0.10

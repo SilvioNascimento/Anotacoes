@@ -1,0 +1,47 @@
+História da computação
+
+Objetivos
+	* Apresentar os avanços ocorridos na área da tecnologia, e o surgimento da área do conhecimento conhecida como ciência da computação
+------------------------------
+
+Introdução
+
+Computação
+	* Apresentar os avanços ocorridos na área da tecnologia, construindo uma linha do tempo sobre a tecnologia.
+
+	* Por que estudar a história da computação?
+		- Compreender as dificuldades enfrentadas;
+		- Fundamentos da computação;
+		- O processo de pensamento
+	
+	*A ciência é uma área de avanços cumulativos:
+		- Base em pesquisas anteriores;
+		- Novos paradigmas (paradigma: Um modelo ou padrão a seguir para resolver problemas).
+	
+	* A partir de novos paradigmas, originou a evolução de dois temas:
+		-hardware(partes físicas do PC; ele é o fundamento na computação) 
+		- software(parte lógica do PC)
+
+	* Objetivos da computação:
+		- Minimizar esforços;
+		- Otimizar recursos.
+
+	* A computação está ligado a matemática. A seguir, serão relatados os instrumentos antigos de cálculos que eram usados pelos matemáticos.
+
+	* Ábaco
+		- Um dos primeiros dispositivos de cálculo
+		- Operções básicas com 12 inteiros
+		- Origem: Babilonia - 3 mil a.C
+
+	* Quadrante
+		- Cálculo Astrômico - Navegação
+			° Criador: Ptolomeu Babilônia
+			° Desenvolvido no séc. XVI
+
+------------------------------
+Obs: A história da computação se mistura com a da matemática
+------------------------------
+
+	* Ciência da computação
+		- Surgimento dos primeiros computadores durante a guerra;
+		- Avanço exponencial

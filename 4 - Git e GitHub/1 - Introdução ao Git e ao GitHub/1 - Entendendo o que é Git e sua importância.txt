@@ -1,0 +1,17 @@
+- Git -
+	* Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
+	* Criado em 2005
+	* Criador: Linus Torvalds
+	* Criado para colaborar no desenvolvimento do Sistema Operacional Linux, criando versões diferentes do mesmo
+	* Também foi criado o GitHub
+	* Mesmo Git e GitHub são softwares totalmente diferentes, um complementa o outro
+	* Git é gratuito enquanto GitHub possui algumas funcionalidades pagas
+
+- Benefícios ao usar Git e GitHub -
+	1. Controle de Versão
+	2. Armazenamento em nuvem
+	3. Trabalho em equipe
+		- Permitindo que outras pessoas acessarem seu código e trabalhando nele.
+	4. Melhorar seu código
+	5. Reconhecimento
+		- Ser reconhecido pelo seu código postado, pois o Git é como se fosse uma rede social

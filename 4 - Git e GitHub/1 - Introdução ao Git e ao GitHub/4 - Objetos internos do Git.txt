@@ -1,0 +1,30 @@
+- 3 tipos básicos de Objetos do Git -
+	* Blobs
+	* Trees
+	* Commits
+
+- BLOBS -
+	* Possui sha1
+	* echo 'conteúdo' | git hash-object --stdin
+	  314543e9d46e8c06b1a6dd808952b21fa5b1663c
+	
+	* echo -e 'conteúdo' | openssl sha1
+	  10a58f8a7fc7e6b02ed8017037771f35fb621dab
+
+- TREE -
+	* Como BLOBS tem sha1 nos metadados, a TREE também tem sha1 nos metadados.
+	* Apontam tanto para os BLOBS quanto aos TREE, que o mesmo aponta para blobs
+	* sha1 também pertence ao sha1
+	* Se mudar um arquivo que já tem uma chave gerada nos blobs e tree, tanto o blobs quanto o tree gerarão chaves diferentes.
+	
+
+- Commit -
+	* É o objeto que vai juntar todas as informações.
+	* Commit aponta os commit's anteriores, aponta para tree e aponta para blobs
+	* Commit também tem um sha1 nos seus metadados. Caso é alterado algum valor no Blobs, gera chave diferente que, consequentemente, vai gerar chaves novas tanto para tree quanto para Commit
+	* fonte: https://git-scm.com/
+
+
+
+Sistema distribuído Seguro
+	* O seu programa ou arquivo estará seguro mesmo que tenha 40 pessoas trabalhando nela, pois, além de gerar versões dela, gera chaves novas para cada uma delas. Se der errado com um, os outros 39 pessoas estará seguro

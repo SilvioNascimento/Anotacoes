@@ -1,0 +1,65 @@
+- Estrutura condicional -
+	* Condição: Estado de uma pessoa ou coisa
+	* Condicional: Que expressa uma condição ou suposição. Contém ou implica uma suposição ou hipótese.
+	* Qual a ideia?
+		- se Condição for satisfeita, então realiza uma Operação
+		- se não, faz a Exceção
+	* Condicional simples:
+		- Condição => Operação
+		Se (<condição>)então
+			<instruções para condição verdadeira>
+		fim_se
+	
+	* Condicional composta:
+		- Condição => Operação
+		     | |
+		      V
+		   Exceção
+		Se (<condição>) então
+			<instruções para condição verdadeira>
+		Senão
+			<instruções para condição falsa>
+	
+	Ex (Média escolar):
+	Inicio programa:
+		nota1 = 5
+		nota2 = 8
+		Resultado = 0
+
+		Resultado = (nota1 + nota2)/2
+
+		se resultado >= 7
+			escreva "Aprovado"
+		senão
+			escreva "Reprovado"
+		fim_se
+		Escreva resultado
+
+	Fim programa
+
+	* Condicional Encadeado
+		Se (<condição 1>) então
+			<instruções para condição verdadeira>
+		Senão
+			Se (<condição 2>) então
+				<instruções para: condição 2 verdadeira e condição 1 falsa>
+			Senão
+				<Instruções para condição 1 e 2 falsas>
+		fim_se
+
+- Operadores Lógicos -
+	* AND
+	* OR
+	* NOT
+
+- Quando utilizar operadores lógicos? -
+	* Verificação de V ou F
+	* Substituição
+		- encadeamento de condições
+	* AND (Interseção) - operador Lógico
+		- Se todas as condições forem verdadeiras, então o resultado será verdadeiro
+	* OR (União) - operador Lógico
+		- Se pelo menos uma das condições for verdadeira, então o resultado será verdadeiro
+	* NOT (Negação) - operador Lógico
+		- Se uma condição for verdadeira, então o resultado será falso. Se uma condição for falso, então o resultado será verdadeiro
+		- Ex: Not B -> tudo que não está em B

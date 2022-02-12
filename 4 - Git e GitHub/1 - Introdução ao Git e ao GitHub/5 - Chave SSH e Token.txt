@@ -1,0 +1,99 @@
+- GitHub -
+	* Antes de tudo, deve ter uma conta no GitHub para continuar a aula
+	* Se tiver, clique no ícone/foto
+	* Selecione Configurações
+	* Clique em Chaves SSH e GPG
+	* Clique em Nova chave SSH
+
+- Chave SSH -
+	* É uma forma de estabelecer uma conexão segura e encriptada entre duas máquinas: No servidor do GitHub e na máquina local(PC)
+	* Terá dois tipos de chaves: uma pública e a outra, privada. Após inserí-la no GitHub, o mesmo reconhecerá que é você que está usando através de um PC
+
+
+Agora iremos gerar essas duas chaves no Git Bash. Para realizar tal ação, precisa:
+	1. Acessar o Git Bash
+
+	2. digitar o seguinte (quando aparecer 'seuemail.com' é para digitar seu email sem áspas):
+		ssh-keygen -t ed25519 -C 'seuemail.com'
+
+	3. Quando aparecer, na última linha, o seguinte:
+		Enter file in which to save the key (/c/Users/Família Nascimento/.ssh/id_ed25519):
+	então aperta Enter
+
+	4. Após isso, ele pede para digitar uma senha. Caso não queira criar uma senha, apenas aperte Enter.
+
+	5. Aperte de novo o Enter para confirmar.
+----------------------------------------------------------
+	6. Para acessar a pasta do ssh, deve escrever 'cd caminho/.ssh' (Sem áspas). 
+	Ex:
+		cd /c/Users/Família Nascimento/.ssh/
+
+	Se o código acima não funcionar, tente fazer por este exemplo:
+		cd /c/Users/'Família Nascimento'/.ssh/
+	Ou:
+		cd /c/Users/Família\ Nascimento/.ssh/
+
+-----------------------------------------------------------
+
+comando ls
+	Mostra todos os arquivos da pasta atual
+
+comando cat
+	visualiza todo o conteúdo da chave ssh
+
+comando pwd
+	Mostra o caminho que está atualmente
+-----------------------------------------------------------
+	7. Digite o comando ls para ver se gerou a chave
+	8. Se as chaves foram criadas, um chamado 'id_ed25519' e outro 'id_ed25519.pub', digite o seguinte comando:
+		cat id_ed25519.pub
+	Após mostrar o conteúdo da chave pública em baixo do comando utilizado anteriormente, copie tudo e cola na parte Key no seu GitHub.
+	9. Depois de colar a chave, e, se quiser, colocar um título para chave, clique em 'Adicionar chave SSH'
+	10. Se aparecer uma aba pedindo senha, clique somente em 'Confirmar senha', caso você não colocou nenhuma senha
+
+
+Para que essa chave recém-criada funcione de verdade, deve-se:
+	1. Vá em Git Bash
+	2. Se estiver na pasta .ssh, digite:
+		eval $(ssh-agent -s)
+	Isso vai criar uma entidade que vai lidar com as chaves.
+	Se digitou corretamente, vai aparecer o seguinte:
+		Agent pid 1385
+	obs: na parte dos números, ele se altera cada vez que é executado. Ou seja, não é fixo. Então, não se preocupe com isso
+
+	3. Para entregar a chave privada para o GitHub, digite:
+		ssh-add id_ed25519
+	4. Vá até o seu GitHub
+	5. Clique em 'Código'
+	6. Clique em SSH e, em seguida, copie o link
+	7. É aconselhável criar uma pasta para testar os passos posteriores para conseguir fazer com que a chave SSH funcione.
+	8. Utilize o comando cd para direcionar até a pasta que queremos utilizar.
+	9. Depois disso, digite:
+		git clone (cole o link do seu repositório)
+	E, em seguida, aperte Enter
+	10. Quando aparecer uma mensagem, é só digitar yes e depois clique Enter
+	11. Depois de concluído o processo de clonagem, digite o comando ls e aperte Enter
+	12. Se apareceu o nome do seu repositório, quer dizer que funcionou tanto a clonagem quanto a chave, pois, durante o processo, não pediu a senha 
+------------------------------------
+
+- Token de acesso pessoal -
+	* Deve estar com seu GitHub feito para Fazer os tokens
+	* É outra forma de segurança 
+
+	* Para criá-lo, deve-se:
+		- Clicar no ícone
+		- Clique em Configurações
+		- Selecione em Configurações do desenvolvedor
+	* A seguir, clique em Tokens de acesso pessoal
+	* Clique em Gere um token de acesso pessoal ou Gerar novo token
+	* Digite um nome de sua preferência no campo de texto Observação, escolha um tempo na parte de Expiração e, em seguida, marque na caixa repositório
+	* Por fim, clique em Gerar token
+	* Copia o link do seu token e salve-o dentro do seu PC
+	* Copie um outro repositório seu via HTPPS
+	* Acesse o Git Bash e, se tiver acesso ao caminho da pasta que usamos, utilize o comando:
+		git clone (link do seu repositório)
+	E, em seguida, aperte Enter
+	* Se aparecer uma janela do GitHub, clique em Token.
+	* Copie o token que salvou anteriormente e cole na caixa de texto.
+	* Por fim, clique em 'Sign in'
+	* Depois disso, espera até a clonagem estiver finalizada.

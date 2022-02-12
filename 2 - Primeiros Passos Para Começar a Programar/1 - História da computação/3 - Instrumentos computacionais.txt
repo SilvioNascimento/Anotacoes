@@ -1,0 +1,52 @@
+Primeira Máquina: Blaise Pascal
+	* Função: Realizar duas operações
+	* Criador: Pascal
+	* Intuito: Auxiliar seu pai nas contas
+	* Não permaneceu por muito tempo por não ser confiável
+
+Charles Xavier Thomas
+	* Ano da criação: 1820
+	* Máquina: Arithmometer
+		- Realiza as operações básicas (adição, subtração, multiplicação, divisão)
+
+	*Eram computadores?
+		- Tinham alguns dos componentes para ser
+		- Não eram programáveis, mas dava para inserir números.
+
+Charles Babbage
+	* 1822
+	* Protótipo de madeira e latão
+		- Não construído
+	* 1837
+		- Descreveu seu trabalho
+	* Funcionalidades de um computador atual
+	* Conceito de Software
+		- Conjuntos mutáveis podem gerar Diferentes funções, assim gerando instruções ao software.
+	* Como executar essas instruções?
+		- Comandos representados pela linguagem que dealizou executariam as determinadas operações, nascendo, assim, o conceito da programação
+-------------------------------
+
+Ada Augusta Lovelace: Primeira programadora
+	* 1815 - 1852
+	* Filha de poeta
+	* Educada por De Morgan
+	* Matemática e escritora inglesa
+	* Por interessar pelo trabalho de Charles Babbage, criou instruções para calculadora analítico
+	* Patrona da ciência da computação, e o Charles Babbage, o Pai da ciência da computação
+-------------------------------
+
+Calculadora analítico de Babbage
+	* Localidade: Museu de Londres - Reino Unido
+-------------------------------
+
+Última contrbuição do século XIX: Herman Hollerith
+	* Idade: 19 anos
+	* Profissão: Empregado da United States Census Office
+	* Criação: Máquina de tabular Hollerith (Hollerith Tabuleting Machines)
+	* Não obteve nenhum ganho no início
+	* Porém, algum tempo depois, dominou o mercado de máquinas.
+	* Funcionalidade: Máquiina que pudesse interpretar, classificar e realizar operações representadas pelas perfurações dos cartões
+	* Censo americano em 1880: Os dados processados, manualmente, do censo levaram 7 anos e meio para serem compilados
+	*  Censo americano em 1890: Levou 2 anos e meio para processar os dados com a máquina de perfurar cartões e máquinas de tabular e ordenar.
+
+	* Após algum tempo, a empresa de Herman, junto com 2 empresas, foram incorporadas pela empresa CTR que, mais tarde, passou a ser conhecida como IBM.

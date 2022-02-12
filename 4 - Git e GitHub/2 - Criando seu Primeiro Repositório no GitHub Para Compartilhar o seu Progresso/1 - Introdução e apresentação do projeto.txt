@@ -1,0 +1,32 @@
+- Desafio de Projeto -
+	* Reforce seu conhecimento em Git com um desafio totalmente prático, onde você executará todos os passos para a criação, atualização e sincronização de um repositório no GitHub.
+	* Com isso, você poderá compartilhar suas anotações e exercícios em seu próprio repositório. Criando assim, o primeiro (de muitos) projetos de seu portifólio ;)
+
+
+- Git/GitHub: Relembrando algumas coisinhas -
+	* Com o GitHub aberto, clique no sinal de mais e selecione a opção "Novo Repositório"
+	* Na caixa de texto de "Nome do repositório", digite dio-desafio-github-primeiro-repositorio
+	* Na caixa de texto chamado "Descrição", digite Desafio de Projeto sobre Git/GitHub
+	* Clique na opção Público e, em seguida, marque a opção "Adicionar um Arquivo README"
+	* Clique na opção 'Criar repositório'
+		- Se tiver esse repositório salvo no seu pc, então só precisa enviá-lo para o GitHub. Reveja as anotações anteriores para fazer isso.
+		- Caso não tenha, crie do zero e depois envia o que você fez para o GitHub. Para fazer isso, reveja as suas anotações anteriores.
+	* Se quiser fazer algumas alterações nos arquivos do seu repositório, faça. Reveja a 9º anotação do git/github para fazer isso.
+	* Para clonar um repositório, clique em 'Códigos' do repositório 'livro-receitas' e copie o primeiro link mostrado, o HTTPS.
+	* Vamos criar uma pasta no Disco Local D. Abra o Disco Local D, clique com botão direito no mouse na parte branca e selecione a opção "Git Bash Here"
+	* Vamos acessar a pasta 'Meus Assuntos'. Digite cd 'Meus Assuntos'/ e aperte Enter.
+	* Digite
+		mkdir Meus-Repositórios
+	  e aperte Enter para criar uma pasta a fim de armazenar nossos repositórios.
+	* Digite
+		ls
+	  e aperte Enter para ver se o diretório (pasta) que criamos está criado. Se apareceu, quer dizer que funcionou
+	* Acesse a pasta recém-criada através do Git Bash
+	* Depois digite
+		git clone linkCopiado(o link que você copiou no GitHub)
+	  e aperte Enter para começar o processo de clonagem para o seu pc.
+
+
+- Desafio -
+	* Agora é a sua hora de brilhar, use todo seu conhecimento em Git e GitHub para criar o seu próprio repositório. Com isso, em breve você terá muitos outros projetos no seu perfil no GitHub.
+	* Desta forma, outros Devs ou empresas poderão acessar seu portfólio de projetos e colaborar/acompanhar sua evolução profissional

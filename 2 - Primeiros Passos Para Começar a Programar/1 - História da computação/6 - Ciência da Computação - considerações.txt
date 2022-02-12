@@ -1,0 +1,12 @@
+Historicamente
+	* Alto consumo de recursos
+	* Programas de processamento de dados
+
+Surgiu um guia
+	* Projeto de desenvolvimento
+	* Surge a Engenharia de Software
+	* Temas(sendo elas éticos, profissionais...) compondo a Ciência da computação
+	* Inclusão da Ciência da Computação no currículo de IEEE e ACM
+
+Por que estudar história?
+	* Podemos descobrir analogias, e determinar paralelismos com a computação moderna definindo padrões e reconhecendo tendências que nos permitem prever algum dado futuro.

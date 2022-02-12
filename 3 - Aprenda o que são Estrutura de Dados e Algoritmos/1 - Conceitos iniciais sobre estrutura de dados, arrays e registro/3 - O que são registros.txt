@@ -1,0 +1,41 @@
+- Sobre -
+	* Um Registro é uma estrutura que fornece um formato especializado para armazenar informações em memória.
+	* Enquanto Arrays nos permitem armazenar vários dados de um único tipo de dados, o recurso de Registro nos permite armazenar mais de um tipo de dado
+	* Um registro é composto por campos que especificam cada uma das informações que o compõem
+	* Abaixo podemos ver alguns campos de exemplo que constituem o registro de um cliente
+	
+_____________________________________
+| CPF	   |		      	     |
+--------------------------------------
+| Nome	   |		             |
+--------------------------------------
+| Endereço |		             |
+--------------------------------------
+| Contato  |		             |
+--------------------------------------
+
+	* Toda estrutura de registro tem um nome (ex: livro), e seus campos podem ser acessados por meio do uso do operador ponto (.). Por exemplo, para acessar o preço de um livro, poderíamos utilizar a seguinte declaração:
+
+livro.preco
+
+
+ex:
+
+Algoritmo
+//declaração do tipo de dado
+tipo
+	estrutura_livro = registro
+		nome	:caracter
+		preco	:real
+		pagina	:inteiro
+	fimregistro
+
+//Declaração das variaveis
+	i inteiro
+	livro array[1..3] de estrutura_livro
+
+	escreva("Entre os nomes, preços e números de páginas de três livros")
+	para i de 1 ate 3 faca		//Leitura dos dados
+		leia(livro[i].nome, livro[i].preco, livro[i].paginas)
+	fimpara
+FimAlgoritmo

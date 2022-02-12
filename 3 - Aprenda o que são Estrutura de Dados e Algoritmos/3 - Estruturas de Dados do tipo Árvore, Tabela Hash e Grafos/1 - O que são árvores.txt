@@ -1,0 +1,26 @@
+- Árvore -
+	* É uma estrutura de dados que organiza seus elementos de forma hierárquica, onde existe um elemento que fica no topo da árvore, chamado de raiz e existem os elementos subordinados a ele, que são chamados de nós ou folhas
+
+Ex:
+
+vetor = 2, 8, 12, 15, 20, 23, 30
+	* o vetor possui 7 elementos
+
+	* Caso o usuário queira fazer uma busca de um certo valor no vetor, o programa voltado a isso vai procurar, de um em um, até encontrar este valor. 
+	* Mas este método era demorado. Algum tempo depois, surgiu o método árvore
+
+Antes:
+	2 -> 8 -> 12 -> 15 -> 20 -> 23 -> 30
+
+Depois (Árvore):
+
+2	12	20	 30 -> (nó)
+^       ^        ^        ^
+|	|	 |	  |
+=== 8 ===	 === 23 ===
+    ^                ^
+    |		     |
+    ======= 15 =======
+
+	* Facilita na busca de valores nesta estrutura
+	* Na computação, a estrutura mostrada é representada de forma reversa
