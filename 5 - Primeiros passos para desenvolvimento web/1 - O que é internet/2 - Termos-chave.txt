@@ -1,0 +1,122 @@
+Parte 2: Termos-chave
+
+- Termos-chave -
+	* download/upload
+		- Download: Baixar dados 
+		- Upload: Manda dados no armazenamento da nuvem
+
+	* navegador
+		- Aplicativo que ajda a navegar
+		- Google Chrome, Fire Fox, Omega, ...
+
+	* banda larga
+
+	* cache
+		- Quando acessa o site, o mesmo deixa alguns dados salvos no PC que, quando necessitar abrir o mesmo site, uma parte dele aparecerá pois não necessita carregar por muito tempo.
+
+	* crack
+		- Piratear um software com uma chave falsa para ter acesso ao mesmo de forma irrestrita e ilimitada. Isso é considerado um crime.
+
+	* email
+		- Correio eletrônico
+
+	* emoticons/emoji
+		- Figurinhas
+
+	* gif/jpg/png
+		- gif e png aceitam transferência
+		- jpg foi criado para fazer fotos menores. Mas esse processo perde cor, resolução e formações  da foto
+		- png mantêm uma fidelidade melhor na foto, e deixa o tamanho do arquivo bastante interessante
+
+	* host
+		- É uma espécie de servidor de e-mails. Exemplos: Gmail, Hotmail, ...
+
+	* HTML
+		- Linguagem de Marcação da Internet
+
+	* HTTP
+		- Protocolo da Internet
+
+	* ícone
+
+	* link
+		- Ligação de um URL para mensagem
+
+	* login/logon
+		- Acessar um site por meio do usuário e senha
+
+	* logout/logoff
+		- Desconectar de um sistema
+
+	* mp3
+		- Formato de áudio e tem tamanho menor
+
+	* multimídia
+		- Executar multimídias ao mesmo tempo. Exemplo: texto, áudio, vídeo, animações, etc
+
+	* nick
+		- Ocultar sua identidade através de um nome inventado
+
+	* online/offline
+		- Online: Conectado da internet ou sistema
+		- Offline: Desconectado da internet ou sistema
+
+	* pixel
+		- quadrados menores responsáveis por um elemento da imagem que, juntas, formam uma imagem completa
+
+	* spam
+		- Mensagens de email a fim de distribuí-la para demais emails.
+
+	* URL
+		- Endereço de um site
+
+	* Vírus
+		- Software malicioso com objetivo de causar danos para você ou seu PC
+
+	* keylogger
+		- Tipo de vírus que captura tudo o que o usuário digita pelo teclado
+
+	* phishing
+		- Um golpe da internet que o golpista tem o intuito de roubar dados, enganando a sua vítima
+
+	* Backup
+		- É uma cópia de segurança de dados que, quando os dados originais são perdidos, ainda tem uma cópia delas
+
+	* blog
+		- Começou sendo um diário, depois passou a ter podcasts, jogos, futebol, notícias
+
+	* vlog
+		- É uma espécie de blog em vídeo
+
+	* (cyber)bullying
+		- Desrespeito a outra(s) pessoa(s) através da internet
+
+	* 3G/4G/5G
+		- Velocidades da internet móvel
+
+	* cookies
+		- São pequenos registros das atividades de um site que podem ser usadas em outros sites.
+
+	* firewall
+		- É uma espécie de parede cuja função é impedir o acesso indevido do computador
+
+	* Hacker
+		- É uma pessoa que encontra falhas e invulnerabilidades de softwares
+
+	* IP
+		- É um número de endereço dos PCs, sites, tudo que está conectado na rede. É como se fosse o nome de cada dispositivo, site ou qualquer um que está conectado na rede.
+
+	* click bait
+		- São "notícias" cuja função é para ser clicado nela para causar problemas no PC, seja detonar ou roubar seus dados .
+
+	* fake news
+		- Além de disparar notícias falsas, gera lucro para aqueles que desenvolveram através do click do usuário
+
+	* podcast
+		- Programa de rádio disponibilizado na internet
+
+	* pop-up
+		- O pop-up é um tipo de janela que se abre no navegador ao visitar uma página web ou acessar uma hiperligação específica. O pop-up é utilizado por autores de sites para abrir alguma informação extra ou como meio de propaganda.
+	
+	* youtuber
+		- Um youtuber, também conhecido como personalidade do YouTube, celebridade do YouTube ou criador de conteúdo do YouTube, é um tipo de celebridade e cinegrafista da Internet que ganhou popularidade no site de compartilhamento de vídeos YouTube. Às vezes, networks apoiam tais celebridades.

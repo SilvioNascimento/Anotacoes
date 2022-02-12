@@ -1,0 +1,67 @@
+Parte 1: Redes
+
+- Redes -
+	* 1 computador: Não precisa de conexão
+	* 2 computadores: Uma conexão entre eles
+	* 3 computadores: Criar uma conexão entre eles
+	* 5 computadores: Vira uma bagunça de conexões
+	* 10 computadores: Caos já instalado
+
+	* O recomendável é ter um equipamento para realizar essas conexões entre os computadores.
+
+- Backbone -
+	* Tradução: Espinha dorsal
+	* Costelas
+	* Poucas delas espalhadas pelo mundo
+	* Significado formal: Backbone, em inglês, significa “espinha dorsal”. Sua tradução torna o conceito bem claro. Portanto, ele é a espinha dorsal que interliga uma série de servidores que estão distantes, tal como o referido órgão do corpo, conectando diversas partes que não estão próximas.
+
+
+- Provedor de acesso -
+	* Empresas telefônicas
+	* Contratam o sinal do backbone e o repassam ao usuário final - você, empresas ...
+
+
+- Provedor de serviço -
+	* Dial-up
+		- Conexão em forma discada
+	* ADSL (banda larga)
+	* Fibra ótica
+	* Rádio
+	* Satélite
+	* Móvel
+	* P2P* (peer to peer)
+		- Peer-to-peer ou P2P é uma arquitetura de redes de computadores onde cada um dos pontos ou nós da rede funciona tanto como cliente quanto como servidor, permitindo compartilhamentos de serviços e dados sem a necessidade de um servidor central.
+
+
+- Caminho inverso -
+	* www
+	* DNS
+		- Transforma o nome (www, por exemplo) em IP
+	* IP
+		- é o endereço de Protocolo da Internet
+	* Classes de redes
+	* IP da internet: 127.0.0.1 (localhost/endereço do pc)
+
+
+
+- Exercício final -
+
+Use o terminal de comandos para descobrir o endereço de sites famosos no Windows:
+1. Aperte as teclas Windows + R
+2. Digite cmd e aperte ENTER
+3. Na tela preta que aparecer, 
+4. digite ping <site>(exemplo www.google.com.br)
+5. algo assim será mostrado:
+	C:\Users\Família Nascimento>ping www.google.com.br
+
+	Disparando www.google.com.br [142.251.128.99] com 32 bytes de dados:
+	Resposta de 142.251.128.99: bytes=32 tempo=66ms TTL=118
+	Resposta de 142.251.128.99: bytes=32 tempo=74ms TTL=118
+	Resposta de 142.251.128.99: bytes=32 tempo=71ms TTL=118
+	Resposta de 142.251.128.99: bytes=32 tempo=68ms TTL=118
+
+	Estatísticas do Ping para 142.251.128.99:
+    		Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+	Aproximar um número redondo de vezes em milissegundos:
+    		Mínimo = 66ms, Máximo = 74ms, Média = 69ms
