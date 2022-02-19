@@ -1,0 +1,33 @@
+- Site -
+	* Página da internet
+	* Diversos propósitos
+	* Podem ser feitas em diversas LP
+	* D/XHTML caíndo em desuso
+
+- Aplicativo -
+	* Um software que é executado no navegador
+	* Um aplicativo de celular, muitas vezes, nada mais é do que uma espécie de navegador
+	* Hoje em dia, já quase não existe diferença entre site e aplicativo, e o primeiro está em declínio
+	* Outra diferença terminológica que está sumindo é entre programa/software e aplicativo
+
+- E-commerce -
+	* "e", assim como em "e-mail", significa "electronic"
+	* Tradução: Comércio eletrônico
+	* Site de compra e venda com sistema de pagamento
+	* O sistema de pagamento pode ser exterior ao site
+	* Gerenciador de pagamento: PicPay, Boleto, PagSeguro, PayPal, Mercado Pago
+
+
+Exercício final
+
+	* Boleto só existe no Brasil. Verdade? Será que algum outro país usa?
+R:	O Brasil é único que utiliza o boleto.
+
+	* Débito é uma invenção brasileira. Será?
+R:	Sim, depois de 16 anos da criação do boleto de cobrança, a Federação Brasileira de Bancos (Febraban) criou, em 2009, o Débito Direto Autorizado (DDA), cujo meio de pagamento vem sendo o quarto mais utilizado no Brasil
+
+	* Os sites hoje em dia usam mais sistemas próprios de pagamento ou terceirizados?
+R:	Uma parte dos sites tem seus próprios pagamentos enquanto os outros utilizam pagamentos terceirizados
+
+	* Faça uma busca quantitativa no Google, veja qual mais aparece: site, aplicativo ou programa (de computador)
+R:	Os resultados que mais aparece na busca quantitativa no Google são voltados para softwares

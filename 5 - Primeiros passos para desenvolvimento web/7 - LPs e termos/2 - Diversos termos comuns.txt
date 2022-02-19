@@ -1,0 +1,113 @@
+Termos comuns
+	* 404: um erro mostrado quando o site mencionado não existe
+
+	* Algoritmo: uma sequencia de passos para executar uma tarefa
+
+	* ALT: A tecla Alt, igualmente conhecida como tecla de Alternativa, faz parte dos teclados dos computadores e é usado para aceder a certos menus e atalhos. 
+
+	* API: Acrescentar mais funções em um site
+	* Aplicação: software
+
+	* Back-end
+
+	* Biblioteca/dll: Conjunto de ferramentas disponíveis para realizar tais ações
+
+	* Bootstrap: um dos frameworks de javascript mais usado
+
+	* Breakpoints: Pontos chaves de tela de diversos dispositivos ou Debug (pontos de parada) para ver um valor de uma variável, entre outros...
+
+	* Browser/navegador
+
+	* Bug: Um bug de software é um erro, falha ou falha no software de computador que faz com que ele produza um resultado incorreto ou inesperado, ou se comporte de maneira não intencional.
+
+	* Cache
+
+	* Código: instruções feitas por um ou mais linguagens diferentes a fim de executar/copilar uma tarefa
+
+	* Controle de versão: Controlador de versão de um programa/aplicativo
+
+	* Cookies
+
+	* Debug: Depuração é o processo de encontrar e reduzir defeitos num aplicativo de software ou mesmo em hardware. Erros de software incluem aqueles que previnem o programa de ser executado e aqueles que produzem um resultado inesperado.
+
+	* Deploy: mplantação é a fase do ciclo de vida de um software, no contexto de um Sistema de Informação, que corresponde textualmente à passagem do software para a produção.
+
+	* Design adaptativo/responsivo: Que adapta seu design em diferentes telas
+
+	* DNS: O Sistema de Nomes de Domínio, mais conhecido pela nomenclatura em Inglês Domain Name System, é um sistema hierárquico e distribuído de gestão de nomes para computadores, serviços ou qualquer máquina conectada à Internet ou a uma rede privada.
+
+	* Documentação: 
+		* Interna: Deixar comentários dentro do seu programa
+		* Externa: Manual do programa
+
+	* Domínio: Nome de domínio é um nome que serve para localizar e identificar conjuntos de computadores na internet. O nome de domínio foi concebido com o objetivo de facilitar a memorização dos endereços de computadores na Internet. Ex: www.google.com; domínio: google.com 
+
+	* DPI: Pontos por polegada é uma medida de densidade relacionada à composição de imagens, que expressa o número de pontos individuais que existem em uma polegada linear na superfície onde a imagem é apresentada.
+
+	* Editor de texto: Programa que edita texto.
+
+	* Estrutura de dados: Uma estrutura de dados, em ciência da computação, é uma coleção tanto de valores quanto de operações. É uma implementação concreta de um tipo abstrato de dado ou um tipo de dado básico ou primitivo.
+
+	* Favicon: A palavra favicon origina de duas palavras em inglês: favorite e icon. Os favicons são pequenas imagens que ficam guardados no site para visualização pelo navegador. Geralmente são utilizados como logotipos em tamanho reduzido, nos sites de empresas, entidades e marcas quaisquer.
+
+	* Fontes: estilo de letras
+
+	* Framework: Um framework em desenvolvimento de software, é uma abstração que une códigos comuns entre vários projetos de software provendo uma funcionalidade genérica. Um framework pode atingir uma funcionalidade específica, por configuração, durante a programação de uma aplicação.
+
+	* Front-end
+
+	* FTP
+
+	* Full-stack
+
+	* GitHub/SVN/CVS: Controladores de versões
+
+	* HTTP(S)
+
+	* IP: Um Endereço de Protocolo da Internet, do inglês Internet Protocol address, é um rótulo numérico atribuído a cada dispositivo conectado a uma rede de computadores que utiliza o Protocolo de Internet para comunicação. 
+
+	* Linguagens: tecnologias usadas para criar programas, sites, entre outros
+
+	* Meta Tags: Traduzido de inglês-Elementos meta são marcas usadas em documentos HTML e XHTML para fornecer metadados estruturados sobre uma página da web. Eles fazem parte da seção principal de uma página da web. Vários elementos Meta com atributos diferentes podem ser usados ​​na mesma página.
+
+	* Método ágil: Tecnicas de desenvolvimento de softwares que visam um desenvolvimento melhor e rápido de um sistema
+
+	* Mobile: é aquele que é executado nativamente em um smartphone. Ou seja, é a aplicação que é instalada no aparelho do usuário. Ele tem acesso aos recursos completos do telefone e um design alinhado com a plataforma e os seus guias de estilo, o que gera uma melhor usabilidade.
+
+	* MVC: O MVC é uma sigla do termo em inglês Model (modelo) View (visão) e Controller (Controle) que facilita a troca de informações entre a interface do usuário aos dados no banco, fazendo com que as respostas sejam mais rápidas e dinâmicas
+
+	* MVP:  MVP é a sigla que representa o Mínimo Produto Viável – em inglês, Minimum Viable Product. De um jeito simples, podemos definir o MVP como uma versão enxuta de uma solução, que contém apenas suas funcionalidades básicas. Pode ser um software, serviço, produto físico ou digital.
+
+	* MySQL: Linguagem de programação voltada a criação de banco de dados
+
+	* Pixel: De forma resumida, são conjunto de quadrados que formam uma imagem
+
+	* Resolução: Quantidade de pixel que a sua tela tem. Exemplo: resolução de 1080x720, 1080 pixels de largura e 720 pixels de comprimento 
+
+	* Servidor: Em informática, um servidor é um software ou computador, com sistema de computação centralizada que fornece serviços a uma rede de computadores, chamada de cliente. Esses serviços podem ser de naturezas distintas, como por exemplo, arquivos e correio eletrônico.
+
+	* Sistema operacional/SO
+		* Linux
+		* Windows
+		* Android
+		* IOS
+		* mac OS
+		* entre outros
+
+	* Solução: Forma de dizer que pode ser um programa ou conjunto de programas que pode fornece para um cliente
+
+	* SSL: Certificado SSL é um certificado digital que autentica a identidade de um site e possibilita uma conexão criptografada. O termo "SSL" significa "Secure Sockets Layer" (camada de soquete seguro), um protocolo de segurança que cria um link criptografado entre um servidor Web e um navegador Web
+
+	* UI
+
+	* UX
+
+	* Versão: A versão no contexto da informática se refere geralmente à versão do programa de computador, ou seja: a cada modificação no software que os programadores fazem é gerada uma nova versão.
+
+	* WYSIWYG: WYSIWYG é uma sigla em inglês formada pelas iniciais da expressão “What You See Is What You Get” e quer dizer “O que você vê é o que você obtém”.
+		   Pequenos editores de texto embutidos em sites para, por exemplo, alterar cores e propriedades das palavras. E quando executa, o site aparece com as palavras com as cores e propriedades que determinou a ele.
+
+
+Exercício final
+
+Pesquise um pouco sobre Apache, MySQL e PHP, pois vamos usar na próxima aula para construir nossa primeira aplicação-teste

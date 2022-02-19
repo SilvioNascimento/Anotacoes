@@ -1,0 +1,32 @@
+- Web-server -
+	* Um lugar reservado para armazenar dados de um site (Servidor)
+	* Existem 2 tipos: estático e dinâmico
+	* O estático é um servidor físico onde são armazenados arquivos, softwares e/ou banco de dados
+	* O dinâmico se refere aos softwares que estão presentes no servidor físico
+
+
+- Web-server dinâmico -
+	* Arquivos (file server)
+	* Aplicativos (application server)
+	* Banco de dados (database)
+	* Tudo junto e misturado
+	* Um site, ou aplicativo, precisa estar hospedado em um servidor para pôde ser acessado
+	* Os dados de um site precisam estar em um servidor 
+	* O banco de dados de um site ou aplicativo precisa estar em um servidor
+
+- Web-service -
+	* Interface disponível para fazer requisições e consultas em bancos de dados inacessíveis (Correios, Governo)
+	* Voltado para comunicação
+
+
+Exercício final
+
+	Tente encontrar, na Internet, como se dá o acesso aos web-services dos Correios e do Governo para, por exemplo, buscar os dados de um CEP e os dados sobre os estudantes do Brasil, respectivamente. 
+
+* Como se dá o acesso aos web services dos Correios?
+O acesso ao CWS é feito pelo link: https://cws.correios.com.br. Apesar da existência do ambiente de homologação, para a realização de testes, o acesso as funcionalidades será realizada através de orientações, login e senha específicos para a funcionalidade. 
+
+* Como se dá o acesso aos web services dos Governo?
+Os gestores dos sistemas que desejam estabelecer uma conexão via webservices com o Novo SIAFI devem primeiramente verificar se o serviço desejado encontra-se disponível no catálogo do Governo Eletrônico. A oferta de serviços é ampla mas não abrange totalmente as funcionalidades da versão on-line do Novo SIAFI.
+O endereço para acesso à documentação de interoperabilidade do novo SIAFI é:
+http://catalogo.governoeletronico.gov.br/.

@@ -1,0 +1,24 @@
+- Browser -
+	* Como você faria para acessar a Internet sem um browser?
+	* Claro, existem muitas formas. Mas para ver um site, é preciso um programa que interprete as linguagens de programação (LP) e as transforme em algo compreensível por um humano.
+	* Sabe identificar várias LP, linguagens de marcação e conteúdo multimídia
+	* Hoje, os browsers fazem muito mais que isso: existem plug-ins, ou add-ons, que ajudam na navegação.
+	* Cache (Download de conteúdos do site para não precisar carregar após abrir novamente) e cookies (rastros de sites salvos no PC voltados para os anúncios)
+
+Página estática x dinâmica
+
+- Página estática -
+	* Não tinham muita interatividade
+	* Direcionamento de outros sites
+
+- Página dinâmica -
+	* Interatividade
+	* Muitas funções
+
+
+- Exercício final -
+
+	Entre no site: http://archive.org/web/
+	Pesquise como eram antigamente os sites mais famosos de hoje em dia.
+
+R:	Um dos sites antigos, porém famosos, que pesquisei foi GitCities. De modo geral, o visual do site é bastante simples, conteúdo em texto curto e palavras chves que levarão aos outros sites

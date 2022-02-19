@@ -1,0 +1,24 @@
+- Modem -
+	* MOdulator - DEModulator
+	* Hardware que converte dados em um formato que possa ser transmitido como sinal de um computador para outro e lido por outro (Hardware que modula e demodula sinais; Dados que os humanos compreendem enquanto os computadores não)
+
+- Roteador -
+	* Distribui internet para um ou mais dispositivos de uma rede
+	* Pode fazer a comunicação entre redes
+	* Pode ser "burro" (Não sabe se todo mundo está recebendo e não sabe quem está recebendo)
+
+- Switch -
+	* Distribui internet para um ou mais dispositivos de uma rede
+	* Criado para ser "inteligente" (sabe se todo mundo está recebendo e sabe quem está recebendo)
+
+
+
+Exercício final
+
+	O Gmail costuma usar portas próprias, que não as padrões de SMTP e POP3. Tente descobrir quais são.
+R:	As portas que o Gmail utiliza são SMTP, IMAP (Servidor de recebimento de e-mails) e POP3 (Protocolo dos Correios versão 3)
+
+
+	O programador que trabalha com a internet costuma usar bancos de dados, como o MySQL, e, claro, servidor web, como o Apache. Que tal você se adiantar e já descobrir quais são as portas usadas por estes sistemas?
+R:	MySQL: Utiliza a porta TCP (número 3306)
+	Apache: Utiliza as portas TCP/IP ou HTTPS

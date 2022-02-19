@@ -1,0 +1,29 @@
+- Front-end -
+	* "Parte da frente"
+	* O que trabalham: Site, software, aplicativo, web service
+	* Interface, UI (User Interface - Interface do usuário), UX (User Xperience - Experiência do usuário)
+	* O que precisa: Lógica de programação, HTML, CSS, jQery/JS/AJAX, PHP, Bootstrap/outros frameworks
+
+- Back-end -
+	* "Parte de trás"
+	* O que trabalham: Servidores, bancos de dados
+	* "meio-de-campo" entre interface e bancos de dados, regras de negócios, validades
+	* O que precisa: MySQL, Oracle, protocolos de comunicação, PHP, Java, node.js
+
+- Full stack -
+	* Profissional que sabe trabalhar em todas as camadas das tecnologias de desenvolvimento/execução de um app/sw (software)
+
+Exemplo
+
+Front-end: jQuery
+Back-end: Oracle, MySQL, Voldemort, Espresso, Node.js, GRails = Java-Rails, Backbone.js, Hadoop
+Meta (validações): Java, Scala, jRuby, JavaScript
+
+
+
+Exercício final
+
+Tente encontrar, na internet, quais são as tecnologias utilizadas em cada stack de grandes empresas (Google, Facebook, IBM, Apple, etc.)
+
+Facebook => Frontend: JavaScript; Backend: Hack, Python, C++, Java, Erlang, D, XHP e Haskell
+Instagram => Front-end: JavaScript; Backend => Python, Django e PostgreSQL

@@ -1,0 +1,12 @@
+- Principais linguagens -
+	* HTML (Linguagem de marcação de hipertexto)
+	* CSS (Folha de estilo em cascatas)
+	* JavaScript (jQuery, AJAX, diversas libs)
+	* PHP
+	* .NET
+	* ASP
+	* JAVA
+	* Ruby (on Rails)
+	* Python
+	* Perl
+	* C/C++/C#

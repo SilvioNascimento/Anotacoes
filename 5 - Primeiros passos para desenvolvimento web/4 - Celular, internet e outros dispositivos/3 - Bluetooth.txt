@@ -1,0 +1,34 @@
+- Buetooth -
+	* Conexão ponto-a-ponto (não necessita da conexão com a internet)
+	___________________________________
+	| Classe | Potência máx | Alcance |
+	-----------------------------------
+	|    1   |    100mW	|   100m  |
+	-----------------------------------
+	|    2   |    2,5mW	|   10m	  |
+	-----------------------------------
+	|    3   |    1mW	|   1m    |
+	-----------------------------------
+
+	___________________________________
+	| Versão  |  Taxa de transmissão  |
+	-----------------------------------
+	|   1.2   |       1 Mbps	  |
+	-----------------------------------
+	| 2.0+EDR |       3 Mbps          |
+	-----------------------------------
+	|   3.0   |       24 Mpbs	  |  <= Ainda mais vendido no mercado através de dispositivos
+	-----------------------------------
+	|   4.0   |       25 Mbps	  |
+	-----------------------------------
+	|   5.0   |       50 Mbps	  |
+	-----------------------------------
+
+Obs: mW = miliwatt
+
+
+Exercício final
+
+	Na sua vida pessoal, houve alguma mudança em relação ao acesso à internet e ao consumo de dados online? Por exemplo: vídeos, jogos, música, troca de mensagens, compras, alimentação, notícias, cursos...
+R:	Antigamente eu usava internet de outras pessoas para realizar pesquisas, e jogar jogos também. Depois de muito tempo, obtive minha internet para estudar, assistir vídeos, jogar jogos, entre outros.
+	Enquanto o consumo de dados, raramente eu uso. Quando uso é para fins educacionais ou como meio de comunicação.

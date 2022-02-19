@@ -1,0 +1,9 @@
+- Portas (do inglês: ports) -
+	* As 'portinhas' por onde dados sairão e chegarão (O computador não pode enviar dados por outros computadores sem onde saber por onde estão chegando esses dados)
+	* Tipos de requisição de conexão:
+		* 20: FTP (Envio de arquivos)
+		* 22: SSH (Conexão segura entre dois computadores para executar comandos)
+		* 25: SMTP (Envio de Emails)
+		* 53: DNS (Sistema hierárquico e distribuído de gestão de nomes para computadores, serviços ou qualquer máquina conectada à Internet ou a uma rede privada. De IP para nome do dispositivo)
+		* 80: HTTP (Requisição simples da internet)
+		* 443: HTTPS (Requisição segura da internet)

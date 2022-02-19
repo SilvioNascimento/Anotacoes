@@ -1,0 +1,26 @@
+- TCP/IP -
+	* Protocolos de comunicação entre computadores em rede:
+		- Transmission Control Protocol | Protocolo de Controle de Transmissão
+			° Os dados não podem ser transmitidos pela internet entre dispositivos de forma desordenada
+			° Tem que ter cabeçalho, o endereço, quem está mandando, quem vai receber, que tipos de dados está mandando, etc.
+
+		- Internet Protocol | Protocolo de Internet
+	* Eles utilizam o Modelo de camadas
+	* 4 camadas
+		1. Física (ex: placa de rede, placa wileress[Onde é responsável pela conexão chegar ao computador])
+		2. Rede (ex:IP[Configuração da rede])
+		3. Transporte (ex: TCP, UDP)
+		4. Aplicação (ex: FTP[Envio de arquivos], SMTP[email], HTTP[requisição de sites])
+
+- TCP x UDP -
+	* UDP
+		- Conexão Rápida
+		- Não confiável
+		- Carro do ovo (Não sabe se todo mundo está recebendo ou quem está recebendo a mensagem)
+		- Usado na Livestream
+
+	* TCP
+		- Voltado à conexão
+		- Handshake (Sabe que uma pessoa está recebendo a mensagem da outra e vice e versa)
+		- Integridade, ordem dos dados
+		- Aplicativo de mensagens de texto
