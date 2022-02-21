@@ -1,0 +1,101 @@
+Aula prática
+	* Necessitamos de um servidor web, pois o navegador não sabe interpretar bem o PHP. Desta forma, os sites criados em PHP poderão ser guardados e fáceis de se interpretar
+	* O recomendável é instalar o servidor web chamado XAMPP
+	* O link para download: https://www.apachefriends.org/pt_br/index.html
+
+
+Executar o programa .php pela primeira vez
+	* Executa o XAMPP
+	* Clique em Config na parte de Apache e, em seguida, seleciona a opção Apache (httpd.conf)
+	* Pressiona as teclas Ctrl + F para abrir a aba Localizar
+	* Clique no campo de texto e digite documentroot
+	* Clique no botão Localizar Próxima
+	* Caso a palavra encontrada, procure-o junto com o caminho de uma pasta entre aspas
+	* Substitua o caminho entre aspas e digite o seguinte: C:\Projetos
+		* Obs: Você deve criar uma pasta no C: para funcionar. Caso você criou a pasta pedida em outro caminho, mas dentro do Disco Local C, não esqueça de colocar o caminho dele no lugar do caminho antigo
+	* Se abaixo tiver um caminho de uma pasta entre aspas, substitua-o pelo caminho usado anteriormente
+	* Salva o arquivo e fecha-o
+	* No programa XAMPP, clique no botão start localizado no Módulo Apache
+	* Depois, crie um arquivo chamado index.txt
+	* A seguir, altere a extensão do arquivo recém criado de .txt para .php
+		* Obs: Se tiver ativado a opção Extensões de nomes de arquivos, localizado na aba Exibir, poderá alterar a extensão pedida no tópico anterior tranquilamente
+	* Se tiver instalado e configurado o PHP no VSCode, abre o arquivo no VSCode
+		* Caso não tenha configurado, acesse o link do vídeo para configurar:
+		https://www.youtube.com/watch?v=NIzjRyRmQxU
+
+	* Digite o seguinte código:
+<html>
+    <head>
+        <title>Meu primeiro site em PHP! Woohoo!</title>
+    </head>
+
+    <body>
+
+        <?php
+            for ($i = 0; $i < 10; $i++) {
+                print("Linha número " . $i . "<br />");
+            }
+        ?>
+        
+    </body>
+</html>
+
+	* Executa o programa e abra uma aba da google
+	* No browser da google digite localhost
+		* Ou digite localhost/index.php
+	* Aperte a tecla Enter
+		* Pode ver que mostrou as mensagens 
+			Linha número 0
+			[...]
+			Linha número 8
+			Linha número 9
+
+Vamos criar outro?
+	* Abra o VSCode e crie o arquivo chamado index2.php
+	* Digite os comandos a seguir:
+
+<html>
+    <head>
+        <title>Meu primeiro site em PHP! Woohoo!</title>
+
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+
+        <style type="text/css">
+            .linha {
+                font-weight: bold;
+                color: green;
+                padding-left: 10px;
+                line-height: 50px;
+            }
+        </style>
+    </head>
+    <body>
+            <?php
+                for ($i = 0; $i < 10; $i++) {
+                    print("<span class=\"linha\">Linha número " . $i . "</span><br>");
+                }
+            ?>
+    </body>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            alert('Woohoo!')
+        })
+    </script>
+</html>
+
+
+	* Vá em um navegador, clique no campo de pesquisa e digite localhost/index2.php
+	* Aperte Enter
+	* E assim, executou o seu programa
+
+
+Obs: 
+<script src="linkDaBiblioteca"></script> : Importando uma biblioteca
+
+localhost: 127.0.0.1
+
+
+Exercício final
+
+Construa um site utilizando alguma biblioteca visual jQuery (como Accordion)
