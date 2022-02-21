@@ -6,7 +6,7 @@
     <body>
 
         <?php
-            for ($i = 0; $i < 10; $i++) {
+            for ($i = 0; $i < 11; $i++) {
                 print("Linha número " . $i . "<br />");
             }
         ?>
