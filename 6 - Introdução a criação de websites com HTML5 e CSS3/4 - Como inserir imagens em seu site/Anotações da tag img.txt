@@ -1,0 +1,9 @@
+Imagens
+<img>
+
+<img src="img/avatar.jpg">
+
+<img alt="Foto de Lucas Vilaboim">
+
+Ex de usar o src e slt no mesmo código:
+	<img src="img/avatar.jpg" alt="Foto de Lucas Vilaboim">

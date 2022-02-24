@@ -1,0 +1,19 @@
+Textos
+
+<h1>Título da página</h1>
+<h2>Título de seção</h2>
+<h3>Título de artigo</h3>
+<p>Conteúdo do artigo</p>
+
+
+
+Links
+
+<a>Link</a>
+
+<a href="linkedin.com/in/vilaboim">LinkedIn</a>
+<a href="mailto:lucas@vilaboim.com">E-mail</a>
+
+<target="_blank">Link</a> => Abre uma nova aba do navegador quando acessa o link. Sempre é bom usá-lo junto do href para ter este efeito
+Ex:
+	<a href="linkedin.com/in/vilaboim" target="_blank">Linkedin</a>
