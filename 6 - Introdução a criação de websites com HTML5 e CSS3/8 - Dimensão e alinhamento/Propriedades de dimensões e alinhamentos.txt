@@ -1,0 +1,25 @@
+width: Largura
+height: altura
+
+Pode atribuir valores neles em porcentagem ou em pixel.
+Eles servem, citados anteriormente, para alterar, respectivamente, a largura e altura de um elemento
+
+
+
+max-width: Largura máxima
+max-height: Altura máxima
+
+Trabalham na largura e altura máxima de um elemento. E quando a tela for menor durante a visualização do conteúdo, os elementos se adequarão ao tamanho
+
+
+
+margin: espaçamento entre elementos
+
+
+text-align: alinha o texto para a esquerda (left), pela direita (right), pelo centro (center) ou justificando-o (justify)
+
+
+
+obs: 
+	margin: auto
+		* Ajusta o margin para que todos os elementos do html se centralizem

@@ -1,0 +1,43 @@
+O que são seletores
+
+
+a, p, h1, h3 {
+	color: blue;
+	font-size: 14px;
+}
+
+seletores: a, p, h1, h3
+
+declarações: color: blue;
+	     font-size: 14px;
+
+
+
+ID x Classe
+
+<header id="header" class="header"></header>
+
+<header class="header"></header>
+
+Obs: o id pode ser usado somente uma vez por código html, enquanto class pode ser usado quantas vezes quiser
+
+
+Classe:
+
+.header {
+	padding: 10px;
+}
+
+
+
+ID:
+
+#header {
+	padding: 15px;
+}
+
+
+
+
+rel:
+	Diz ao navegador qual tipo de arquivo que estamos adicionando

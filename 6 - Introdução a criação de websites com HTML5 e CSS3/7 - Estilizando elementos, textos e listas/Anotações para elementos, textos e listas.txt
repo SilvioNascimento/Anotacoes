@@ -1,0 +1,124 @@
+* Elemento *
+
+Padding
+
+Podemos atribuir tanto um valor em pixel como tamanho de todos os lados (ex1); 2 valores para definir, respectivamente, o tamanho superior e direita do padding, e o tamanho do lado esquerdo e inferior do mesmo (ex2); e 4 valores para representar, respectivamente, os tamanho dos lados superior, direita, inferior e esquerda do padding (ex3).
+
+* ex1:
+.post {
+	padding: 10px;
+}
+
+
+* ex2:
+.post {
+	padding: 10px 5px;
+}
+
+
+* ex3:
+.post {
+	padding: 15px 10px 5px 0;
+}
+
+obs: Uma boa dica também é que quando o valor for 0 não precisamos colocar a unidade. 
+
+
+
+Outra forma de atribuir valores de cada lado específico do padding:
+
+* Lado superior:
+.post {
+	padding-top: 15px
+}
+
+
+* Direita:
+.post {
+	padding-right: 10px;
+}
+
+
+* Lado inferior:
+.post {
+	padding-bottom: 5px;
+}
+
+
+* Esquerda:
+.post {
+	padding-left: 0;
+}
+
+
+obs: Essa opção é mais usada quando temos o mesmo valor para 3 lados, e o quarto precisa ter um valor diferente, então usamos o padding com apenas um valor e uma dessas opções para representar o lado diferente.
+
+
+
+Background
+
+* background-color : altera a cor do plano de fundo.
+* background-image: url("img.ext") : Inseri uma imagem no plano de fundo
+* background-position: define a posição inicial de uma imagem de fundo.
+
+
+ex:
+.post {
+	background-color: green; (ou #008000 ou rgb(0, 128, 0))
+	background-image: url("py.png");
+	background-position: center;
+}
+
+
+
+Border
+
+Largura: pixels, centrímetros (em), milímetros (mm) ...
+Cor: blue, #0000ff...
+Estilo: sólida (solid), pontilhada (dotted), tracejada (dashed) ...
+
+ex1:
+.post {
+	border: 3px solid blue;
+	border-top: 2px dotted green;
+	border-right: 4px dashed pink;
+}
+
+
+ex2:
+.post {
+	border: 3px solid #505050
+}
+.post {
+	border-width: 3px;
+	border-color: #505050;
+	border-style: solid;
+}
+
+
+ex3:
+.post {
+	border-top-width: 3px;
+	border-top-color: blue;
+	border-top-style: solid;
+}
+
+
+Como o padding, o border pode configurar o tipo de borda de cada lado:
+ex:
+.post {
+	border-top: 2px dotted green;
+	border-right: 4px dashed pink;
+	border-bottom: 1px solid purple;
+	border-left: 4px dotted cyan;
+}
+
+
+
+border-radius
+
+Permite arrendondar as bordas de um elemento
+* border-radius: 10px; (altera todos os lados do elemento)
+* border-radius: 50%; (altera todos os lados do elemento)
+* border-radius: 10% 20%; (10%: altera os lados superior e direita do elemento; 20%: altera so lados inferior e esquerdado elemento)
+* border-radius: 10% 20% 15% 22%; (10%: altera o lado superior; 20%: altera o lado direito; 15%: altera o lado inferior; 22%: altera o lado esquerdo)
