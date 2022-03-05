@@ -1,0 +1,20 @@
+Objetivos da Aula
+	1. Aprofundar mais em HTML5
+	2. Aprender a utilizar o framework Bootstrap
+	3. Construir um site utilizando HTML5, CSS3 e Bootstrap
+
+
+Bootstrap
+	* Se trata de um framework para desenvolvimento de sites responsivos
+	* Possui uma vasta biblioteca de componentes que facilita a agilizar o desenvolvimento de páginas web
+	* É um dos frameworks mais conhecidos e usados para o desenvolvimento front-end
+
+
+Vamos ver na prática?
+	* Crie uma pasta para armazenar o programa.
+	* Quando querer utilizar o bootstrap, acesse o site: getbootstrap.com
+	* Clique em Download
+	* Clique novamente em Download na parte CSS Compilado e JS
+	* Selecione a pasta que criou para armazenar o arquivo do download
+		- Caso baixou direto, localize e transfere o arquivo baixado para a pasta criada
+	* E descompacta o arquivo na pasta

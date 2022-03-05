@@ -1,0 +1,36 @@
+class="rounded-circus"
+Esta classe é exclusivamente para o seletor de imagem <img>.
+Ela arredonda as bordas de uma imagem
+
+
+href='#nomeID' => Após ser clicado, irá direcionar ao seletor que tiver como ID o nomeID, por exemplo
+Ex:
+	href="#quemsomos" => direciona ao seletor que tiver como ID chamado quemsomos.
+
+
+href='#nomeClass' => Após ser clicado, irá direcionar ao seletor que tiver como class o nomeClass, por exemplo
+Ex:
+        href="#mano" => direciona ao seletor que tiver como class chamado mano.
+
+
+
+class='row'
+É usada principalmente para conter colunas. Bootstrap divide cada linha em uma grade de 12 colunas virtuais.
+
+
+
+class='col'
+* Use a .col classe em um número especificado de elementos e o Bootstrap reconhecerá quantos elementos existem (e criará colunas de largura igual). No exemplo abaixo, usamos três elementos col, que obtêm uma largura de 33,33% cada.
+* Você também pode usar números para controlar a largura da coluna. Apenas certifique-se de que a soma soma 12 ou menos (não é necessário que você use todas as 12 colunas disponíveis).
+	ex:
+	<div class="col-6">.col-6</div>
+        <div class="col-6">.col-6</div>
+
+	col-6 + col-6 = 6 + 6 = 12
+
+* a classe col possui cinco definições:
+	* col- (dispositivos extra pequenos - largura da tela menor que 576px)
+	* col-sm- (pequenos dispositivos - largura da tela igual ou superior a 576px)
+	* col-md- (dispositivos médios - largura da tela igual ou superior a 768px)
+	* col-lg- (dispositivos grandes - largura da tela igual ou superior a 992px)
+	* col-xl- (dispositivos extragrandes - largura da tela igual ou superior a 1200px)

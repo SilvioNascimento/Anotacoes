@@ -1,0 +1,18 @@
+<div class='container'>
+	<p>Oi</p>
+</div>
+
+A classe container gera uma margem à esquerda e à direita para todos os elementos dentro do seletor que possui a classe citada
+
+
+
+<div class="container-fluid">
+	<p>T</p>
+</div>
+
+A classe container-fluid ocupa toda a divisão, deixando os conteúdos que estão dentro de um seletor com a linhagem à esquerda.
+
+
+
+class="text-center"
+Centraliza todos os elementos que estão dentro de um seletor que possui a classe text-center.

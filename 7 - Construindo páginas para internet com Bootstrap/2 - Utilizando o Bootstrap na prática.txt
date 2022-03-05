@@ -1,0 +1,36 @@
+<meta charset="utf-8">
+Reconhece os caracteres especiais (ó, ç, ...)
+
+
+<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
+Puxa a biblioteca bootstrap.min.css do framework Bootstrap para html
+
+
+<div></div>
+é um contêiner genérico para conteúdo de fluxo, que de certa forma não representa nada. Ele pode ser usado para agrupar elementos para fins de estilos (us  class id ),  ou  porque eles são usados ​​para agrupar valores de atributos,  como . Ele deve ser utilizado somente quando não tiver outro elemento de semântica (tal como  <article>ou  <nav>).
+
+
+<nav class="navbar navbar-expand-lg navbar-light"></nav>
+cria um cabeçalho de navegação do Bootstrap de cor cinza claro
+
+
+class="navbar-brand"
+Coloca o conteúdo do seletor que possui esta classe para o lado esquerdo centralizado.
+
+
+href="#"
+Define que o site não leva a nenhum lugar
+
+
+
+<div class="collapse navbar-collapse">
+	<ul class="navbar-nav">
+		<li class="nav-item">
+			<a class="nav-link" href="#">Quem somos</a>
+		</li>
+	</ul>
+</div>
+
+O <div class="collapse navbar-collapse"> troca a cor de todos os links que estão dentro deste seletor em preto claro.
+O <ul class="navbar-nav"> retira os marcadores da lista não ordenada e organiza todos os elementos da lista em linha horizontal.
+Já um seletor que tem a classe class="nav-item" e outra que possui a classe class="nav-link" faz com que, durante a execução do html, quando passa o cursor no link, o mesmo ficará em negrito
